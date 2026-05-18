@@ -1,0 +1,1901 @@
+the,The dog is in the house.,o/a,O cachorro está na casa.
+to be,I want to be a doctor.,ser/estar,Eu quero ser um médico.
+and,I have a cat and a dog.,e,Eu tenho um gato e um cachorro.
+of,This is a glass of water.,de,Este é um copo de água.
+a,I have a new book.,um/uma,Eu tenho um livro novo.
+in,The cat is in the box.,em,O gato está na caixa.
+to have,I have two brothers.,ter,Eu tenho dois irmãos.
+to,She walks to school every day.,para,Ela caminha para a escola todo dia.
+it,It is a very big dog.,isso/ele/ela,Isso é um cachorro muito grande.
+I,I like to eat pizza.,eu,Eu gosto de comer pizza.
+that,I think that this is fun.,que,Eu acho que isso é divertido.
+for,This gift is for you.,para,Este presente é para você.
+you,You are my best friend.,você,Você é meu melhor amigo.
+he,He plays soccer every day.,ele,Ele joga futebol todo dia.
+with,She came with her mother.,com,Ela veio com a mãe dela.
+on,The book is on the table.,em cima de,O livro está em cima da mesa.
+to do,I need to do my homework.,fazer,Eu preciso fazer minha lição de casa.
+to say,I want to say hello.,dizer,Eu quero dizer olá.
+this,This apple is very red.,este/esta/isso,Esta maçã é muito vermelha.
+they,They play in the park.,eles/elas,Eles brincam no parque.
+at,She is at school now.,em/no/na,Ela está na escola agora.
+but,I like cats but not dogs.,mas,Eu gosto de gatos mas não de cachorros.
+we,We go to school together.,nós,Nós vamos para a escola juntos.
+his,His dog is very friendly.,dele/seu,O cachorro dele é muito amigável.
+from,She is from Brazil.,de,Ela é do Brasil.
+that,The ball that he kicked was red.,que,A bola que ele chutou era vermelha.
+not,I do not like spiders.,não,Eu não gosto de aranhas.
+n't,She doesn't like cold water.,não (contração),Ela não gosta de água fria.
+by,The book was written by her.,por,O livro foi escrito por ela.
+she,She has a pretty dress.,ela,Ela tem um vestido bonito.
+or,Do you want juice or water?,ou,Você quer suco ou água?
+as,She runs as fast as him.,tão/como,Ela corre tão rápido quanto ele.
+what,What is your favorite color?,o que/qual,Qual é a sua cor favorita?
+to go,I want to go to the park.,ir,Eu quero ir ao parque.
+their,Their house is very big.,deles/delas/seu,A casa deles é muito grande.
+can,She can swim very well.,poder/conseguir,Ela consegue nadar muito bem.
+who,Who is your best friend?,quem,Quem é seu melhor amigo?
+to get,I want to get a new toy.,pegar/conseguir,Eu quero conseguir um brinquedo novo.
+if,We play outside if it is sunny.,se,Nós brincamos fora se estiver ensolarado.
+would,She would like some cake.,gostaria/iria,Ela gostaria de um bolo.
+her,I gave her a flower.,ela/dela,Eu dei uma flor para ela.
+all,All the kids love recess.,todos/tudo,Todas as crianças adoram o recreio.
+my,My cat is orange.,meu/minha,Meu gato é laranja.
+to make,I want to make a cake.,fazer/criar,Eu quero fazer um bolo.
+about,Tell me about your day.,sobre,Me conte sobre o seu dia.
+to know,I want to know the answer.,saber/conhecer,Eu quero saber a resposta.
+will,She will come tomorrow.,vai/irá (futuro),Ela vai vir amanhã.
+as,He is as tall as a tree.,como/quanto,Ele é tão alto quanto uma árvore.
+up,The cat jumped up the tree.,para cima,O gato pulou para cima da árvore.
+one,I have one sister.,um/uma,Eu tenho uma irmã.
+time,I have no time to play.,tempo,Eu não tenho tempo para brincar.
+there,There is a cat on the roof.,lá,Lá tem um gato no telhado.
+year,This year I am ten years old.,ano,Este ano eu tenho dez anos.
+so,I was so happy at the party.,tão,Eu estava tão feliz na festa.
+to think,I think this answer is right.,pensar,Eu penso que essa resposta está certa.
+when,When do we eat lunch?,quando,Quando a gente almoça?
+which,Which color do you like more?,qual,Qual cor você gosta mais?
+them,I saw them at the park.,eles,Eu os vi no parque.
+some,I want some juice please.,alguns,Eu quero um pouco de suco por favor.
+me,Can you help me with this?,me,Você pode me ajudar com isso?
+people,Many people live in this city.,pessoas,Muitas pessoas moram nessa cidade.
+to take,Please take your bag to school.,pegar,Por favor pega sua mochila para a escola.
+out,She went out to play.,fora,Ela foi lá fora brincar.
+into,He walked into the classroom.,para dentro,Ele entrou para dentro da sala.
+just,I just ate my lunch.,só,Eu só comi meu almoço.
+to see,I want to see that film.,ver,Eu quero ver aquele filme.
+him,I gave him a pencil.,ele,Eu dei um lápis para ele.
+your,Is this your pencil case?,seu,Essa é a sua estojo?
+to come,Come here and sit with me.,vir,Vem aqui e senta comigo.
+could,Could you open the window please?,podia,Você podia abrir a janela por favor?
+now,We must leave now.,agora,A gente precisa sair agora.
+than,She is taller than her brother.,do que,Ela é mais alta do que o irmão.
+like,I like to eat fruit.,gostar,Eu gosto de comer fruta.
+other,I want the other book.,outro,Eu quero o outro livro.
+how,How do you spell your name?,como,Como se escreve o seu nome?
+then,We ate and then we played.,então,A gente comeu e então brincou.
+its,The dog hurt its paw.,seu,O cachorro machucou sua pata.
+our,This is our classroom.,nosso,Essa é a nossa sala de aula.
+two,I have two sisters.,dois,Eu tenho duas irmãs.
+more,Can I have more water please?,mais,Posso ter mais água por favor?
+these,These books are very heavy.,esses,Esses livros são muito pesados.
+to want,I want a new pencil.,querer,Eu quero um lápis novo.
+way,Do you know the way home?,caminho,Você sabe o caminho para casa?
+to look,Look at the blue sky.,olhar,Olha para o céu azul.
+first,I was first in the race.,primeiro,Eu fui o primeiro na corrida.
+also,She also likes to read books.,também,Ela também gosta de ler livros.
+new,I got a new backpack today.,novo,Eu ganhei uma mochila nova hoje.
+because,I smiled because I was happy.,porque,Eu sorri porque estava feliz.
+day,Today is a beautiful day.,dia,Hoje é um dia lindo.
+more,I want more time to play.,mais,Eu quero mais tempo para brincar.
+to use,You can use my eraser.,usar,Você pode usar minha borracha.
+no,There is no milk left.,não,Não tem mais leite.
+man,That man is my teacher.,homem,Aquele homem é meu professor.
+to find,I cannot find my pencil.,achar,Eu não consigo achar meu lápis.
+here,Come here and sit down.,aqui,Vem aqui e senta.
+thing,What is that thing over there?,coisa,O que é aquela coisa lá?
+to give,I will give you my pen.,dar,Eu vou te dar minha caneta.
+many,There are many kids in school.,muitos,Tem muitas crianças na escola.
+well,She sings very well.,bem,Ela canta muito bem.
+only,I have only one brother.,só,Eu tenho só um irmão.
+those,Those books are on the table.,aqueles,Aqueles livros estão na mesa.
+to tell,Please tell me the answer.,contar,Por favor me conta a resposta.
+one,I have one dog at home.,um,Eu tenho um cachorro em casa.
+very,She is very happy today.,muito,Ela está muito feliz hoje.
+her,I gave her a gift.,ela,Eu dei um presente para ela.
+even,He can even run very fast.,até,Ele consegue até correr muito rápido.
+back,She went back to school.,de volta,Ela voltou para a escola.
+any,Do you have any questions?,alguma,Você tem alguma pergunta?
+good,You did a good job today.,bom,Você fez um bom trabalho hoje.
+woman,The woman is a great teacher.,mulher,A mulher é uma ótima professora.
+through,The cat went through the door.,através,O gato passou através da porta.
+us,She walked with us to school.,nós,Ela caminhou com nós até a escola.
+life,Life is full of surprises.,vida,A vida é cheia de surpresas.
+child,The child played in the park.,criança,A criança brincou no parque.
+there,There is a dog in the yard.,lá,Lá tem um cachorro no quintal.
+to work,My dad likes to work early.,trabalhar,Meu pai gosta de trabalhar cedo.
+down,The ball rolled down the hill.,para baixo,A bola rolou para baixo do morro.
+may,You may eat your snack now.,pode,Você pode comer seu lanche agora.
+after,We play after school every day.,depois,Nós brincamos depois da escola todo dia.
+should,You should drink more water.,deveria,Você deveria beber mais água.
+to call,I need to call my mom.,ligar,Eu preciso ligar para minha mãe.
+world,The world is a big place.,mundo,O mundo é um lugar muito grande.
+over,The game is over now.,acabou,O jogo acabou agora.
+school,I love going to school.,escola,Eu adoro ir para a escola.
+still,She is still sleeping right now.,ainda,Ela ainda está dormindo agora.
+to try,Always try your best in class.,tentar,Sempre tente fazer seu melhor na aula.
+in,The cat is in the box.,em,O gato está em uma caixa.
+as,She runs as fast as him.,tão,Ela corre tão rápido quanto ele.
+last,This is the last piece of cake.,último,Este é o último pedaço de bolo.
+to ask,Do not be afraid to ask.,perguntar,Não tenha medo de perguntar.
+to need,I need to study for the test.,precisar,Eu preciso estudar para a prova.
+too,I want to come too.,também,Eu também quero ir.
+to feel,I feel happy at school.,sentir,Eu me sinto feliz na escola.
+three,I have three best friends.,três,Eu tenho três melhores amigos.
+when,When do we eat lunch today?,quando,Quando nós almoçamos hoje?
+state,Each state has its own flag.,estado,Cada estado tem sua própria bandeira.
+never,I never forget my homework.,nunca,Eu nunca esqueço minha lição de casa.
+to become,She wants to become a doctor.,se tornar,Ela quer se tornar médica.
+between,The cat sat between the two boxes.,entre,O gato sentou entre as duas caixas.
+high,The bird flew very high.,alto,O pássaro voou muito alto.
+really,I really like chocolate ice cream.,realmente,Eu realmente adoro sorvete de chocolate.
+something,I have something to show you.,algo,Eu tenho algo para te mostrar.
+most,She got the most points today.,mais,Ela conseguiu mais pontos hoje.
+another,Can I have another piece please?,outro,Posso pegar outro pedaço por favor?
+much,I learned so much today.,muito,Eu aprendi muito hoje.
+family,My family eats dinner together.,família,Minha família janta junta.
+own,She has her own book.,próprio,Ela tem seu próprio livro.
+out,Please go out and play.,fora,Por favor vá lá fora brincar.
+to leave,We need to leave for school.,sair,Nós precisamos sair para a escola.
+to put,Put your bag on the chair.,colocar,Coloque sua mochila na cadeira.
+old,My grandfather is very old.,velho,Meu avô é muito velho.
+while,I read while you sleep.,enquanto,Eu leio enquanto você dorme.
+to mean,What does this word mean?,significar,O que esta palavra significa?
+on,The book is on the table.,em cima,O livro está em cima da mesa.
+to keep,Keep your room clean.,manter,Mantenha seu quarto limpo.
+student,She is a good student.,aluno,Ela é uma boa aluna.
+why,Why are you sad today?,por que,Por que você está triste hoje?
+to let,Let me help you please.,deixar,Deixe-me ajudar você por favor.
+great,You did a great job!,ótimo,Você fez um trabalho ótimo!
+same,We wear the same shirt.,mesmo,Nós usamos a mesma camisa.
+big,That is a big dog.,grande,Aquele é um cachorro grande.
+group,Our group has five students.,grupo,Nosso grupo tem cinco alunos.
+to begin,We begin class at eight.,começar,Nós começamos a aula às oito.
+to seem,You seem happy today.,parecer,Você parece feliz hoje.
+country,Brazil is a big country.,país,O Brasil é um país grande.
+to help,Can you help me please?,ajudar,Você pode me ajudar por favor?
+to talk,I like to talk with friends.,falar,Eu gosto de falar com amigos.
+where,Where is my red bag?,onde,Onde está minha bolsa vermelha?
+to turn,Turn left at the school.,virar,Vire à esquerda na escola.
+problem,I have a small problem.,problema,Eu tenho um pequeno problema.
+every,I brush my teeth every day.,todo,Eu escovo os dentes todo dia.
+to start,Let us start the game now.,começar,Vamos começar o jogo agora.
+hand,Raise your hand to answer.,mão,Levante sua mão para responder.
+might,It might rain today.,pode,Pode chover hoje.
+American,He has an American friend.,americano,Ele tem um amigo americano.
+to show,Show me your drawing please.,mostrar,Me mostre seu desenho por favor.
+part,This is the best part.,parte,Esta é a melhor parte.
+about,This book is about animals.,sobre,Este livro é sobre animais.
+against,We played against another team.,contra,Nós jogamos contra outro time.
+place,This is a beautiful place.,lugar,Este é um lugar bonito.
+over,The game is over now.,terminado,O jogo está terminado agora.
+such,I never saw such beauty.,tal,Eu nunca vi tal beleza.
+again,Please say that again slowly.,de novo,Por favor diga isso de novo devagar.
+few,I have a few pencils.,poucos,Eu tenho poucos lápis.
+case,This is a special case.,caso,Este é um caso especial.
+most,Most kids like to play.,maioria,A maioria das crianças gosta de brincar.
+week,I study five days a week.,semana,Eu estudo cinco dias por semana.
+company,I work at my dad's company.,empresa,Eu trabalho na empresa do meu pai.
+where,Where do you live?,onde,Onde você mora?
+system,Our school has a good system.,sistema,Nossa escola tem um bom sistema.
+each,Each student has a book.,cada,Cada aluno tem um livro.
+right,Turn right at the corner.,direita,Vire à direita na esquina.
+program,I watch a fun TV program.,programa,Eu assisto a um programa de TV divertido.
+to hear,I can hear the birds singing.,ouvir,Eu consigo ouvir os pássaros cantando.
+so,I was tired so I slept.,então,Eu estava cansado então dormi.
+question,I have one question for you.,pergunta,Eu tenho uma pergunta para você.
+during,I sleep during long car trips.,durante,Eu durmo durante longas viagens de carro.
+work,My mom goes to work early.,trabalho,Minha mãe vai ao trabalho cedo.
+to play,I love to play outside.,brincar,Eu adoro brincar lá fora.
+government,The government builds new schools.,governo,O governo constrói novas escolas.
+to run,I like to run in the park.,correr,Eu gosto de correr no parque.
+small,The cat is very small.,pequeno,O gato é muito pequeno.
+number,What is your favorite number?,número,Qual é o seu número favorito?
+off,Please turn off the light.,apagado,Por favor apague a luz.
+always,She always drinks water.,sempre,Ela sempre bebe água.
+to move,Help me move this box.,mover,Me ajude a mover esta caixa.
+to like,I like to eat apples.,gostar,Eu gosto de comer maçãs.
+night,The stars shine at night.,noite,As estrelas brilham à noite.
+to live,Fish live in the water.,viver,Os peixes vivem na água.
+Mr.,Mr. Brown is my teacher.,Sr.,O Sr. Brown é meu professor.
+point,Can you point to the map?,apontar,Você pode apontar para o mapa?
+to believe,I believe you can do it.,acreditar,Eu acredito que você pode fazer.
+to hold,Please hold my hand.,segurar,Por favor segure minha mão.
+today,Today is a sunny day.,hoje,Hoje é um dia de sol.
+to bring,Please bring your book tomorrow.,trazer,Por favor traga seu livro amanhã.
+to happen,Good things can happen today.,acontecer,Coisas boas podem acontecer hoje.
+next,She sits next to me.,próximo,Ela senta próximo a mim.
+without,I cannot sleep without my pillow.,sem,Eu não consigo dormir sem meu travesseiro.
+before,Wash your hands before eating.,antes,Lave as mãos antes de comer.
+large,The elephant is a large animal.,grande,O elefante é um animal grande.
+all,All the kids are playing.,todos,Todos as crianças estão brincando.
+million,A million is a big number.,milhão,Um milhão é um número grande.
+must,You must brush your teeth.,dever,Você deve escovar os dentes.
+home,I go home after school.,casa,Eu vou para casa após a escola.
+under,The dog is under the table.,embaixo,O cachorro está embaixo da mesa.
+water,Please drink more water.,água,Por favor beba mais água.
+room,My room is very clean.,quarto,O meu quarto é muito limpo.
+to write,I like to write stories.,escrever,Eu gosto de escrever histórias.
+mother,My mother makes great food.,mãe,Minha mãe faz uma comida ótima.
+area,This area has many trees.,área,Esta área tem muitas árvores.
+national,We sang the national song.,nacional,Nós cantamos a música nacional.
+money,She saved her money.,dinheiro,Ela guardou seu dinheiro.
+story,Tell me a fun story.,história,Me conte uma história divertida.
+young,The puppy is very young.,jovem,O filhote é muito jovem.
+fact,That is an interesting fact.,fato,Esse é um fato interessante.
+month,My birthday is next month.,mês,Meu aniversário é no próximo mês.
+different,We all have different ideas.,diferente,Nós todos temos ideias diferentes.
+lot,I have a lot of books.,muito,Eu tenho muitos livros.
+right,Turn right at the corner.,direita,Vire à direita na esquina.
+study,I study English every day.,estudar,Eu estudo inglês todos os dias.
+book,She is reading a good book.,livro,Ela está lendo um bom livro.
+eye,She has a blue eye.,olho,Ela tem um olho azul.
+job,My dad has a good job.,trabalho,Meu pai tem um bom trabalho.
+word,I learned a new word.,palavra,Eu aprendi uma nova palavra.
+though,It is cold; I like winter though.,embora,Faz frio; mas eu gosto do inverno.
+business,She has a small business.,negócio,Ela tem um pequeno negócio.
+issue,We solved the issue together.,problema,Nós resolvemos o problema juntos.
+side,Sit on my side please.,lado,Sente do meu lado por favor.
+kind,She is a kind person.,gentil,Ela é uma pessoa gentil.
+four,I have four colored pencils.,quatro,Eu tenho quatro lápis coloridos.
+head,My head hurts today.,cabeça,Minha cabeça dói hoje.
+far,The school is far from here.,longe,A escola é longe daqui.
+black,The cat is black.,preto,O gato é preto.
+long,This road is very long.,longo,Esta estrada é muito longa.
+both,Both children are happy.,ambos,Ambas as crianças estão felizes.
+little,She has a little dog.,pequeno,Ela tem um cachorro pequeno.
+house,My house has three rooms.,casa,Minha casa tem três quartos.
+yes,Yes; I want more juice.,sim,Sim; eu quero mais suco.
+after,We play after school.,depois,Nós brincamos depois da escola.
+since,I have studied since morning.,desde,Eu estudo desde a manhã.
+long,Her hair is very long.,comprido,O cabelo dela é muito comprido.
+to provide,The school will provide books.,fornecer,A escola vai fornecer livros.
+service,The service here is great.,serviço,O serviço aqui é ótimo.
+around,The dog runs around the house.,ao redor,O cachorro corre ao redor da casa.
+friend,My friend likes to read.,amigo,Meu amigo gosta de ler.
+important,Sleep is very important.,importante,O sono é muito importante.
+father,My father cooks on Sundays.,pai,Meu pai cozinha nos domingos.
+to sit,Please sit on the chair.,sentar,Por favor sente na cadeira.
+away,The park is far away.,longe,O parque fica bem longe.
+until,Wait here until I return.,até,Espere aqui até eu voltar.
+power,The storm cut the power.,energia,A tempestade cortou a energia.
+hour,Class lasts one hour.,hora,A aula dura uma hora.
+game,This game is so fun.,jogo,Este jogo é muito divertido.
+often,I often eat rice.,frequentemente,Eu frequentemente como arroz.
+yet,I have not eaten yet.,ainda,Eu ainda não comi.
+line,Stand in a straight line.,fila,Fique em uma fila reta.
+political,It was a political speech.,político,Foi um discurso político.
+end,The movie has a sad end.,fim,O filme tem um fim triste.
+among,She is among her friends.,entre,Ela está entre seus amigos.
+ever,Have you ever seen snow?,alguma vez,Você alguma vez viu neve?
+to stand,Please stand up now.,levantar,Por favor levante agora.
+bad,Eating too much sugar is bad.,ruim,Comer muito açúcar é ruim.
+to lose,I do not want to lose.,perder,Eu não quero perder.
+however,It is hot; however it rains.,porém,Está quente; porém chove.
+member,She is a club member.,membro,Ela é membro do clube.
+to pay,I need to pay the bill.,pagar,Eu preciso pagar a conta.
+law,Everyone must follow the law.,lei,Todo mundo deve seguir a lei.
+to meet,I will meet my friend today.,encontrar,Vou encontrar meu amigo hoje.
+car,My father drives a red car.,carro,Meu pai dirige um carro vermelho.
+city,Our city has a big park.,cidade,Nossa cidade tem um parque grande.
+almost,Dinner is almost ready.,quase,O jantar está quase pronto.
+to include,Please include your name here.,incluir,Por favor inclua seu nome aqui.
+to continue,Let us continue the story.,continuar,Vamos continuar a história.
+to set,She will set the table.,colocar,Ela vai colocar a mesa.
+later,We can talk later.,mais tarde,Podemos conversar mais tarde.
+community,Our community is very united.,comunidade,Nossa comunidade é muito unida.
+much,I like this game very much.,muito,Eu gosto muito deste jogo.
+name,What is your name?,nome,Qual é o seu nome?
+five,I have five colored pencils.,cinco,Eu tenho cinco lápis coloridos.
+once,I read this book once.,uma vez,Eu li este livro uma vez.
+white,The white cat is very cute.,branco,O gato branco é muito fofo.
+least,She has at least two pencils.,pelo menos,Ela tem pelo menos dois lápis.
+president,The president lives in a big house.,presidente,O presidente mora em uma casa grande.
+to learn,I want to learn English.,aprender,Eu quero aprender inglês.
+real,This is a real diamond.,real,Este é um diamante real.
+to change,I need to change my shirt.,mudar,Eu preciso mudar minha camisa.
+team,Our team won the game.,time,Nosso time ganhou o jogo.
+minute,Wait just one minute please.,minuto,Espere só um minuto por favor.
+best,She is the best student in class.,melhor,Ela é a melhor aluna da turma.
+several,I read several books this month.,vários,Eu li vários livros este mês.
+idea,That is a great idea!,ideia,Essa é uma ótima ideia!
+kid,Every kid loves ice cream.,criança,Toda criança ama sorvete.
+body,Exercise is good for your body.,corpo,Exercício é bom para o seu corpo.
+information,I need more information about this.,informação,Eu preciso de mais informação sobre isso.
+nothing,There is nothing in the box.,nada,Não há nada na caixa.
+ago,We met two years ago.,atrás,Nos conhecemos dois anos atrás.
+right,Turn right at the school.,direita,Vire à direita na escola.
+to lead,She will lead our group today.,liderar,Ela vai liderar nosso grupo hoje.
+social,He has good social skills.,social,Ele tem boas habilidades sociais.
+to understand,I do not understand this question.,entender,Eu não consigo entender esta pergunta.
+whether,I don't know whether it will rain.,se,Não sei se vai chover.
+back,Please sit in the back row.,fundo,Por favor sente na fileira do fundo.
+to watch,I like to watch funny movies.,assistir,Eu gosto de assistir filmes engraçados.
+together,We work better together.,juntos,Nós trabalhamos melhor juntos.
+to follow,Follow the teacher to the library.,seguir,Siga a professora até a biblioteca.
+around,The dog runs around the yard.,ao redor,O cachorro corre ao redor do quintal.
+parent,Every parent loves their child.,pai ou mãe,Todo pai ou mãe ama seu filho.
+only,She is the only girl here.,única,Ela é a única menina aqui.
+to stop,Please stop talking in class.,parar,Por favor pare de falar na aula.
+face,Wash your face before breakfast.,rosto,Lave seu rosto antes do café.
+anything,I can eat anything for lunch.,qualquer coisa,Eu posso comer qualquer coisa no almoço.
+to create,We will create a fun project.,criar,Nós vamos criar um projeto divertido.
+public,The public park is very big.,público,O parque público é muito grande.
+already,I already finished my homework.,já,Eu já terminei minha lição de casa.
+to speak,I want to speak in English.,falar,Eu quero falar em inglês.
+others,Be kind to others at school.,outros,Seja gentil com os outros na escola.
+to read,I love to read adventure books.,ler,Eu adoro ler livros de aventura.
+level,This game has ten levels.,nível,Este jogo tem dez níveis.
+to allow,The teacher will allow one question.,permitir,A professora vai permitir uma pergunta.
+to add,Add the numbers on the board.,adicionar,Adicione os números no quadro.
+office,The principal is in the office.,escritório,O diretor está no escritório.
+to spend,I like to spend time with friends.,passar,Eu gosto de passar tempo com amigos.
+door,Please close the door quietly.,porta,Por favor feche a porta com cuidado.
+health,Eating vegetables is good for health.,saúde,Comer vegetais é bom para a saúde.
+person,She is a very kind person.,pessoa,Ela é uma pessoa muito gentil.
+art,I love art class on Fridays.,arte,Eu amo aula de arte nas sextas.
+sure,Are you sure about your answer?,certo,Você tem certeza da sua resposta?
+such,She is such a good friend.,tão,Ela é uma amiga tão boa.
+war,War makes many people very sad.,guerra,A guerra deixa muitas pessoas muito tristes.
+history,History is my favorite subject.,história,História é minha matéria favorita.
+party,I love going to a party.,festa,Eu adoro ir a uma festa.
+within,Stay within the school area.,dentro de,Fique dentro da área da escola.
+to grow,Plants grow with water and sun.,crescer,Plantas crescem com água e sol.
+result,The result of the test was good.,resultado,O resultado da prova foi bom.
+to open,Please open the door for me.,abrir,Por favor abra a porta para mim.
+change,I need to change my shoes.,mudar,Eu preciso mudar meus sapatos.
+morning,I eat breakfast every morning.,manhã,Eu tomo café da manhã todo dia.
+to walk,I like to walk in the park.,caminhar,Eu gosto de caminhar no parque.
+reason,What is the reason you are late?,razão,Qual é a razão de você estar atrasado?
+low,The shelf is too low for me.,baixo,A prateleira é baixa demais para mim.
+to win,I want to win this game.,ganhar,Eu quero ganhar este jogo.
+research,She did research about animals.,pesquisa,Ela fez uma pesquisa sobre animais.
+girl,The girl has a red backpack.,menina,A menina tem uma mochila vermelha.
+guy,That guy is very funny.,cara,Aquele cara é muito engraçado.
+early,I woke up early today.,cedo,Eu acordei cedo hoje.
+food,I love eating delicious food.,comida,Eu adoro comer comida deliciosa.
+before,Wash your hands before eating.,antes,Lave as mãos antes de comer.
+moment,Wait just one moment please.,momento,Espere apenas um momento por favor.
+himself,He did the homework himself.,ele mesmo,Ele fez a lição ele mesmo.
+air,The air outside is very fresh.,ar,O ar lá fora é muito fresco.
+teacher,My teacher is very kind.,professor,Meu professor é muito gentil.
+force,The force of the wind is strong.,força,A força do vento é forte.
+to offer,I want to offer you some juice.,oferecer,Eu quero oferecer um suco para você.
+enough,I have enough pencils for class.,suficiente,Eu tenho lápis suficientes para a aula.
+both,Both my friends like soccer.,ambos,Ambos meus amigos gostam de futebol.
+education,Education is very important for everyone.,educação,A educação é muito importante para todos.
+across,She ran across the street carefully.,através,Ela correu através da rua com cuidado.
+although,I went out although it was cold.,embora,Eu saí embora estivesse frio.
+to remember,Try to remember your new words.,lembrar,Tente lembrar suas palavras novas.
+foot,I hurt my foot playing soccer.,pé,Eu machuquei meu pé jogando futebol.
+second,I finished in second place today.,segundo,Eu terminei em segundo lugar hoje.
+boy,The boy kicked the ball hard.,menino,O menino chutou a bola forte.
+maybe,Maybe we can play later today.,talvez,Talvez possamos brincar mais tarde hoje.
+toward,She walked toward the school gate.,em direção a,Ela caminhou em direção ao portão da escola.
+able,I am able to swim very well.,capaz,Eu sou capaz de nadar muito bem.
+age,My age is ten years old.,idade,Minha idade é dez anos.
+off,Please turn off the lights now.,desligado,Por favor desligue as luzes agora.
+policy,Our school has a no-phone policy.,regra,Nossa escola tem uma regra sem celular.
+everything,I put everything in my backpack.,tudo,Eu coloquei tudo na minha mochila.
+to love,I love spending time with friends.,amar,Eu amo passar tempo com amigos.
+process,Cooking is a fun process.,processo,Cozinhar é um processo divertido.
+music,I listen to music every day.,música,Eu ouço música todo dia.
+including,Everyone came; including my best friend.,incluindo,Todo mundo veio; incluindo meu melhor amigo.
+to consider,You should consider studying every day.,considerar,Você deveria considerar estudar todo dia.
+to appear,A rainbow can appear after rain.,aparecer,Um arco-íris pode aparecer depois da chuva.
+actually,This test is actually very easy.,na verdade,Esta prova é na verdade muito fácil.
+to buy,I want to buy a new book.,comprar,Eu quero comprar um livro novo.
+probably,It will probably rain this afternoon.,provavelmente,Provavelmente vai chover hoje à tarde.
+human,Every human needs water to live.,humano,Todo humano precisa de água para viver.
+to wait,Please wait for me outside.,esperar,Por favor me espere do lado de fora.
+to serve,I serve food at the table.,servir,Eu sirvo comida na mesa.
+market,We buy fruit at the market.,mercado,Nós compramos fruta no mercado.
+to die,The old tree will die soon.,morrer,A árvore velha vai morrer em breve.
+to send,I will send a letter to her.,enviar,Eu vou enviar uma carta para ela.
+to expect,I expect good news today.,esperar,Eu espero boas notícias hoje.
+home,I go home after school.,lar,Eu vou para o lar depois da escola.
+sense,That does not make sense to me.,sentido,Isso não faz sentido para mim.
+to build,They want to build a new school.,construir,Eles querem construir uma nova escola.
+to stay,Please stay here with me.,ficar,Por favor fique aqui comigo.
+to fall,The leaves fall in autumn.,cair,As folhas caem no outono.
+oh,Oh! I forgot my book today.,oh,Oh! Eu esqueci meu livro hoje.
+nation,Brazil is a big and beautiful nation.,nação,O Brasil é uma nação grande e bonita.
+plan,We have a plan for the trip.,plano,Nós temos um plano para a viagem.
+to cut,She will cut the cake now.,cortar,Ela vai cortar o bolo agora.
+college,My sister studies at college.,faculdade,Minha irmã estuda na faculdade.
+interest,I have an interest in science.,interesse,Eu tenho interesse em ciências.
+death,The death of the bird made us sad.,morte,A morte do pássaro nos deixou tristes.
+course,This is a great English course.,curso,Este é um ótimo curso de inglês.
+someone,Someone left a bag at the door.,alguém,Alguém deixou uma bolsa na porta.
+experience,She has experience with animals.,experiência,Ela tem experiência com animais.
+behind,He left his bag behind at school.,atrás,Ele deixou sua bolsa para trás na escola.
+to reach,I cannot reach the top shelf.,alcançar,Eu não consigo alcançar a prateleira de cima.
+local,We eat at the local restaurant.,local,Nós comemos no restaurante local.
+to kill,The cold weather can kill plants.,matar,O frio pode matar as plantas.
+six,I have six books on my desk.,seis,Eu tenho seis livros na minha mesa.
+to remain,Please remain calm during the test.,permanecer,Por favor permaneça calmo durante a prova.
+effect,Rain has a good effect on plants.,efeito,A chuva tem um bom efeito nas plantas.
+use,Can I use your pencil please?,uso,Posso usar seu lápis por favor?
+yeah,Yeah! That is a great idea.,sim,Sim! Essa é uma ótima ideia.
+to suggest,I suggest we play outside today.,sugerir,Eu sugiro que bringuemos lá fora hoje.
+class,My class has thirty students.,turma,Minha turma tem trinta alunos.
+control,She has control of the situation.,controle,Ela tem controle da situação.
+to raise,We raise our hands in class.,levantar,Nós levantamos as mãos na aula.
+care,Take care when you cross the street.,cuidado,Tenha cuidado ao atravessar a rua.
+perhaps,Perhaps we can go to the park.,talvez,Talvez possamos ir ao parque.
+little,My little brother loves dinosaurs.,pequeno,Meu irmão pequeno adora dinossauros.
+late,Do not be late for school today.,tarde,Não chegue tarde para a escola hoje.
+hard,Math can be hard but fun.,difícil,Matemática pode ser difícil mas divertida.
+field,The children play in the green field.,campo,As crianças brincam no campo verde.
+else,What else do you want to eat?,mais,O que mais você quer comer?
+to pass,I hope to pass the English test.,passar,Eu espero passar na prova de inglês.
+former,The former teacher was very kind.,antigo,O antigo professor era muito gentil.
+to sell,They sell fresh bread every morning.,vender,Eles vendem pão fresco toda manhã.
+major,Reading is a major skill for students.,principal,A leitura é uma habilidade principal para estudantes.
+sometimes,I sometimes eat lunch in the garden.,às vezes,Às vezes eu almoço no jardim.
+to require,This game does require two players.,exigir,Este jogo exige dois jogadores.
+along,She walked along the river with friends.,ao longo,Ela caminhou ao longo do rio com amigos.
+development,Reading helps the development of the brain.,desenvolvimento,A leitura ajuda o desenvolvimento do cérebro.
+themselves,The kids made the cake themselves.,eles mesmos,As crianças fizeram o bolo elas mesmas.
+to report,Students must report any problem to teachers.,reportar,Os alunos devem reportar qualquer problema aos professores.
+role,She has an important role in the play.,papel,Ela tem um papel importante na peça.
+better,I feel better today than yesterday.,melhor,Eu me sinto melhor hoje do que ontem.
+economic,The economic news is good for everyone.,econômico,A notícia econômica é boa para todos.
+effort,He made a big effort to finish.,esforço,Ele fez um grande esforço para terminar.
+up,The cat jumped up on the table.,para cima,O gato pulou para cima da mesa.
+to decide,You need to decide now.,decidir,Você precisa decidir agora.
+rate,The heart rate of the runner was high.,taxa,A taxa cardíaca do corredor estava alta.
+strong,She is very strong for her age.,forte,Ela é muito forte para sua idade.
+possible,Is it possible to finish today?,possível,É possível terminar hoje?
+heart,The heart pumps blood through the body.,coração,O coração bombeia sangue pelo corpo.
+drug,The doctor gave him a new drug.,remédio,O médico deu a ele um novo remédio.
+show,The show starts at seven o'clock.,show,O show começa às sete horas.
+leader,Our leader spoke to the whole group.,líder,Nosso líder falou para o grupo todo.
+light,Please turn on the light in here.,luz,Por favor acenda a luz aqui dentro.
+voice,She has a beautiful singing voice.,voz,Ela tem uma bela voz de cantora.
+wife,His wife made a delicious cake.,esposa,A esposa dele fez um bolo delicioso.
+whole,He ate the whole pizza by himself.,inteiro,Ele comeu a pizza inteira sozinho.
+police,The police helped the lost child.,polícia,A polícia ajudou a criança perdida.
+mind,Keep your mind focused on the task.,mente,Mantenha sua mente focada na tarefa.
+finally,We finally arrived at the beach.,finalmente,Finalmente chegamos à praia.
+to pull,Please pull the door to open it.,puxar,Por favor puxe a porta para abrir.
+to return,He will return home after school.,voltar,Ele vai voltar para casa depois da escola.
+free,The tickets to the park are free.,grátis,Os ingressos para o parque são grátis.
+military,The military parade was very impressive.,militar,O desfile militar foi muito impressionante.
+price,The price of this toy is too high.,preço,O preço desse brinquedo é muito alto.
+report,She wrote a report about animals.,relatório,Ela escreveu um relatório sobre animais.
+less,I eat less candy than my brother.,menos,Eu como menos doce do que meu irmão.
+according,According to the teacher; class starts now.,de acordo,De acordo com a professora; a aula começa agora.
+decision,Making a good decision takes some time.,decisão,Tomar uma boa decisão leva algum tempo.
+to explain,Can you explain this math problem?,explicar,Você pode explicar esse problema de matemática?
+son,Her son loves playing football outside.,filho,O filho dela adora jogar futebol lá fora.
+to hope,I hope we win the game today.,esperar,Eu espero que a gente ganhe o jogo hoje.
+even,Even my little sister can do this.,até,Até minha irmã pequena consegue fazer isso.
+to develop,Scientists develop new medicines every year.,desenvolver,Cientistas desenvolvem novos remédios todo ano.
+view,The view from the mountain was beautiful.,vista,A vista do alto da montanha era linda.
+relationship,A good relationship is based on trust.,relacionamento,Um bom relacionamento é baseado em confiança.
+to carry,Can you carry this bag for me?,carregar,Você pode carregar essa bolsa para mim?
+town,There is a nice park in our town.,cidade,Tem um parque bonito na nossa cidade.
+road,The road to school is very long.,estrada,A estrada até a escola é muito longa.
+to drive,My dad loves to drive on weekends.,dirigir,Meu pai adora dirigir nos fins de semana.
+arm,He broke his arm during the game.,braço,Ele quebrou o braço durante o jogo.
+true,Is it true that fish can't blink?,verdadeiro,É verdadeiro que peixes não piscam?
+federal,The federal government helps many cities.,federal,O governo federal ajuda muitas cidades.
+to break,Try not to break that glass plate.,quebrar,Tente não quebrar esse prato de vidro.
+better,She sings better than anyone in class.,melhor,Ela canta melhor do que qualquer um na turma.
+difference,There is a big difference between them.,diferença,Existe uma grande diferença entre eles.
+to thank,I want to thank you for helping.,agradecer,Eu quero agradecer você por ter ajudado.
+to receive,Did you receive my letter last week?,receber,Você recebeu minha carta na semana passada?
+value,Kindness is a value we must keep.,valor,Bondade é um valor que devemos manter.
+international,English is an international language today.,internacional,O inglês é uma língua internacional hoje.
+building,The building is very tall.,prédio,O prédio é muito alto.
+action,He took action to help.,ação,Ele tomou uma ação para ajudar.
+full,My bag is full of books.,cheio,Minha bolsa está cheia de livros.
+model,She made a model of a house.,modelo,Ela fez um modelo de uma casa.
+to join,I want to join the team.,juntar-se,Eu quero me juntar ao time.
+season,Summer is my favorite season.,estação,O verão é minha estação favorita.
+society,We all live in a society.,sociedade,Todos nós vivemos em uma sociedade.
+because,I smiled because I was happy.,porque,Eu sorri porque estava feliz.
+tax,My dad pays tax every year.,imposto,Meu pai paga imposto todo ano.
+director,The director made a great film.,diretor,O diretor fez um ótimo filme.
+early,She woke up early today.,cedo,Ela acordou cedo hoje.
+position,He plays in the front position.,posição,Ele joga na posição da frente.
+player,The player kicked the ball hard.,jogador,O jogador chutou a bola forte.
+to agree,I agree with your idea.,concordar,Eu concordo com a sua ideia.
+especially,I love fruit; especially mangoes.,especialmente,Eu adoro frutas; especialmente mangas.
+record,He broke the school record.,recorde,Ele quebrou o recorde da escola.
+to pick,Please pick a color you like.,escolher,Por favor; escolha uma cor que você goste.
+to wear,I wear a hat in summer.,usar,Eu uso um chapéu no verão.
+paper,She wrote on a piece of paper.,papel,Ela escreveu em um pedaço de papel.
+special,Today is a very special day.,especial,Hoje é um dia muito especial.
+space,There is space for one more.,espaço,Há espaço para mais um.
+ground,The ball rolled on the ground.,chão,A bola rolou no chão.
+form,Please fill out this form.,formulário,Por favor; preencha este formulário.
+to support,Friends support each other always.,apoiar,Amigos se apoiam sempre.
+event,The school event was so fun.,evento,O evento da escola foi muito divertido.
+official,The official rules are very clear.,oficial,As regras oficiais são muito claras.
+whose,Whose book is on the desk?,de quem,De quem é o livro na mesa?
+matter,Water is a matter of life.,assunto,A água é um assunto de vida.
+everyone,Everyone in class was very happy.,todos,Todos na sala estavam muito felizes.
+center,The park is in the center.,centro,O parque fica no centro.
+couple,A couple of kids played outside.,casal,Um casal de crianças brincou lá fora.
+site,The site has great information.,site,O site tem ótimas informações.
+to end,The movie will end soon.,terminar,O filme vai terminar em breve.
+project,Our project is about animals.,projeto,Nosso projeto é sobre animais.
+to hit,Do not hit the table hard.,bater,Não bata na mesa com força.
+to base,We base our work on facts.,basear,Nós baseamos nosso trabalho em fatos.
+activity,My favorite activity is painting.,atividade,Minha atividade favorita é pintar.
+star,I saw a bright star last night.,estrela,Eu vi uma estrela brilhante ontem à noite.
+table,Put your books on the table.,mesa,Coloque seus livros na mesa.
+need,I need water after the race.,precisar,Eu preciso de água depois da corrida.
+court,The players ran on the court.,quadra,Os jogadores correram na quadra.
+to produce,Farms produce fresh food daily.,produzir,As fazendas produzem comida fresca diariamente.
+to eat,I eat breakfast every morning.,comer,Eu como café da manhã toda manhã.
+American,She loves American music a lot.,americano,Ela adora música americana muito.
+to teach,My teacher loves to teach us.,ensinar,Minha professora adora nos ensinar.
+oil,Add a little oil to cook.,óleo,Adicione um pouco de óleo para cozinhar.
+half,I ate half of my sandwich.,metade,Eu comi a metade do meu sanduíche.
+situation,It was a difficult situation for us.,situação,Foi uma situação difícil para nós.
+easy,This exercise is easy for me.,fácil,Este exercício é fácil para mim.
+cost,The book did not cost much.,custo,O livro não teve muito custo.
+industry,The car industry makes many vehicles.,indústria,A indústria de carros fabrica muitos veículos.
+figure,She drew a figure on the paper.,figura,Ela desenhou uma figura no papel.
+to face,He had to face a big problem.,enfrentar,Ele teve que enfrentar um grande problema.
+street,The children play on the street.,rua,As crianças brincam na rua.
+image,The image on the screen is clear.,imagem,A imagem na tela é clara.
+itself,The cat cleaned itself after eating.,si mesmo,O gato se limpou depois de comer.
+phone,She called her mom on the phone.,telefone,Ela ligou para a mãe no telefone.
+either,You can take either the red or blue pen.,qualquer um,Você pode pegar qualquer uma das canetas.
+data,The scientist collected data for the study.,dados,O cientista coletou dados para o estudo.
+to cover,Please cover the pot with a lid.,cobrir,Por favor cubra a panela com uma tampa.
+quite,The test was quite easy today.,bastante,A prova foi bastante fácil hoje.
+picture,He drew a picture of his family.,desenho,Ele fez um desenho da sua família.
+clear,The water in the lake is very clear.,claro,A água do lago é muito clara.
+practice,She needs more practice on the piano.,prática,Ela precisa de mais prática no piano.
+piece,Can I have a piece of cake?,pedaço,Posso pegar um pedaço de bolo?
+land,The farmer worked on his land.,terra,O fazendeiro trabalhou em sua terra.
+recent,Did you see the recent news?,recente,Você viu as notícias recentes?
+to describe,Can you describe your house?,descrever,Você pode descrever a sua casa?
+product,This product is made in Brazil.,produto,Este produto é feito no Brasil.
+doctor,The doctor checked the sick child.,médico,O médico examinou a criança doente.
+wall,He painted the wall yellow.,parede,Ele pintou a parede de amarelo.
+patient,The patient waited to see the doctor.,paciente,O paciente esperou para ver o médico.
+worker,The worker carried heavy boxes all day.,trabalhador,O trabalhador carregou caixas pesadas o dia todo.
+news,She watched the news with her parents.,notícias,Ela assistiu às notícias com seus pais.
+test,He studied hard for the test.,prova,Ele estudou muito para a prova.
+movie,We watched a funny movie last night.,filme,Nós assistimos a um filme engraçado ontem à noite.
+certain,I am certain that she is right.,certo,Eu tenho certeza de que ela está certa.
+north,They traveled north to find snow.,norte,Eles viajaram para o norte para ver neve.
+love,I love spending time with my family.,amor,Eu amo passar tempo com minha família.
+personal,Keep your personal things in your bag.,pessoal,Guarde suas coisas pessoais na sua mochila.
+open,Please open the window; it is hot.,abrir,Por favor abra a janela; está quente.
+support,Friends support each other in hard times.,apoio,Amigos se dão apoio em momentos difíceis.
+simply,She simply smiled and walked away.,simplesmente,Ela simplesmente sorriu e foi embora.
+third,She finished in third place in the race.,terceiro,Ela terminou em terceiro lugar na corrida.
+technology,New technology helps us learn faster.,tecnologia,A nova tecnologia nos ajuda a aprender mais rápido.
+to catch,He tried to catch the ball.,pegar,Ele tentou pegar a bola.
+step,Take one step forward please.,passo,Dê um passo à frente por favor.
+baby,The baby smiled at her mother.,bebê,O bebê sorriu para a sua mãe.
+computer,She uses a computer to do homework.,computador,Ela usa um computador para fazer a lição de casa.
+type,What type of music do you like?,tipo,Que tipo de música você gosta?
+attention,Please pay attention to the teacher.,atenção,Por favor preste atenção ao professor.
+to draw,She loves to draw animals in class.,desenhar,Ela adora desenhar animais na aula.
+film,We watched a great film at school.,filme,Nós assistimos a um ótimo filme na escola.
+Republican,The Republican senator spoke on television.,republicano,O senador republicano falou na televisão.
+tree,The kids climbed the big tree.,árvore,As crianças subiram na grande árvore.
+source,The sun is a source of light.,fonte,O sol é uma fonte de luz.
+red,She wore a red dress to the party.,vermelho,Ela usou um vestido vermelho na festa.
+nearly,He nearly missed the school bus.,quase,Ele quase perdeu o ônibus escolar.
+organization,She joined a local organization to help animals.,organização,Ela entrou em uma organização local para ajudar animais.
+to choose,You can choose any book you like.,escolher,Você pode escolher qualquer livro que quiser.
+to cause,Pollution can cause many problems.,causar,A poluição pode causar muitos problemas.
+hair,She has long and beautiful hair.,cabelo,Ela tem um cabelo longo e bonito.
+look,Take a look at this picture.,olhar,Dê uma olhada nessa foto.
+to point,He used a stick to point at the map.,apontar,Ele usou um graveto para apontar o mapa.
+century,This building is one century old.,século,Este prédio tem um século de idade.
+evidence,The police found evidence at the scene.,evidência,A polícia encontrou evidência no local.
+window,Please open the window; it is hot.,janela,Por favor abra a janela; está quente.
+difficult,This math problem is very difficult.,difícil,Este problema de matemática é muito difícil.
+to listen,You should listen to your teacher.,ouvir,Você deve ouvir o seu professor.
+soon,We will eat dinner very soon.,logo,Nós vamos jantar muito logo.
+culture,Brazil has a very rich culture.,cultura,O Brasil tem uma cultura muito rica.
+billion,There are eight billion people on Earth.,bilhão,Há oito bilhões de pessoas na Terra.
+chance,Give me one chance to explain.,chance,Me dê uma chance de explicar.
+brother,My brother plays soccer every day.,irmão,Meu irmão joga futebol todos os dias.
+energy,The sun gives us light and energy.,energia,O sol nos dá luz e energia.
+period,We have a free period after lunch.,período,Temos um período livre depois do almoço.
+course,This is my favorite course at school.,curso,Este é meu curso favorito na escola.
+summer,We swim at the beach in summer.,verão,Nós nadamos na praia no verão.
+less,Eat less sugar to stay healthy.,menos,Coma menos açúcar para ficar saudável.
+to realize,I did not realize it was so late.,perceber,Eu não percebi que era tão tarde.
+hundred,There are one hundred students here.,cem,Há cem alunos aqui.
+available,The book is available at the library.,disponível,O livro está disponível na biblioteca.
+plant,Water this plant every day.,planta,Regue esta planta todos os dias.
+likely,It is likely to rain today.,provável,É provável que chova hoje.
+opportunity,This is a great opportunity to learn.,oportunidade,Esta é uma grande oportunidade de aprender.
+term,We start a new term next week.,período,Começamos um novo período na próxima semana.
+short,The short boy sat in front.,baixo,O menino baixo sentou na frente.
+letter,She wrote a letter to her friend.,carta,Ela escreveu uma carta para sua amiga.
+condition,The road is in bad condition.,condição,A estrada está em má condição.
+choice,You have to make a good choice.,escolha,Você tem que fazer uma boa escolha.
+to place,Please place your bag on the table.,colocar,Por favor coloque sua mochila na mesa.
+single,There is not a single cloud today.,único,Não há uma única nuvem hoje.
+rule,There is one rule: be kind.,regra,Há uma regra: seja gentil.
+daughter,Her daughter loves to read books.,filha,A filha dela adora ler livros.
+administration,The school administration solved the problem.,administração,A administração da escola resolveu o problema.
+south,They traveled to the south of Brazil.,sul,Eles viajaram para o sul do Brasil.
+husband,Her husband cooks dinner every night.,marido,O marido dela cozinha o jantar toda noite.
+Congress,Congress makes the laws of the country.,Congresso,O Congresso faz as leis do país.
+floor,The cat is sleeping on the floor.,chão,O gato está dormindo no chão.
+campaign,The campaign raised money for the school.,campanha,A campanha arrecadou dinheiro para a escola.
+material,Cotton is a soft and light material.,material,O algodão é um material macio e leve.
+population,The population of Brazil is very large.,população,A população do Brasil é muito grande.
+well,She speaks English very well.,bem,Ela fala inglês muito bem.
+call,Mom will call us for dinner soon.,chamar,Mamãe vai nos chamar para jantar logo.
+economy,A strong economy helps all people.,economia,Uma economia forte ajuda todas as pessoas.
+medical,He needs medical help right now.,médico,Ele precisa de ajuda médica agora.
+hospital,The doctor works at the hospital.,hospital,O médico trabalha no hospital.
+church,The old church is near the park.,igreja,A velha igreja fica perto do parque.
+to close,Please close the door when you leave.,fechar,Por favor feche a porta ao sair.
+thousand,A thousand people came to the show.,mil,Mil pessoas vieram ao show.
+risk,Taking a risk can be dangerous.,risco,Correr um risco pode ser perigoso.
+current,The current situation is very complex.,atual,A situação atual é muito complexa.
+fire,The fire destroyed the old house.,fogo,O fogo destruiu a casa velha.
+future,I think about my future every day.,futuro,Eu penso no meu futuro todo dia.
+wrong,That answer is completely wrong.,errado,Essa resposta está completamente errada.
+to involve,Try not to involve your friends in trouble.,envolver,Tente não envolver seus amigos em problemas.
+defense,The team played great defense today.,defesa,O time jogou uma ótima defesa hoje.
+anyone,Can anyone help me with this?,alguém,Alguém pode me ajudar com isso?
+to increase,We need to increase our study time.,aumentar,Precisamos aumentar nosso tempo de estudo.
+security,The school has good security cameras.,segurança,A escola tem boas câmeras de segurança.
+bank,My mom keeps money in the bank.,banco,Minha mãe guarda dinheiro no banco.
+myself,I made this drawing by myself.,eu mesmo,Eu fiz esse desenho eu mesmo.
+certainly,I will certainly finish my homework.,certamente,Eu certamente vou terminar minha lição.
+west,The sun sets in the west.,oeste,O sol se põe no oeste.
+sport,My favorite sport is football.,esporte,Meu esporte favorito é o futebol.
+board,Write your name on the board.,quadro,Escreva seu nome no quadro.
+to seek,I seek new adventures every summer.,buscar,Eu busco novas aventuras todo verão.
+per,We walk five miles per day.,por,Nós andamos cinco quilômetros por dia.
+subject,Math is my hardest subject.,matéria,Matemática é minha matéria mais difícil.
+officer,The officer helped the lost child.,oficial,O oficial ajudou a criança perdida.
+private,This is my private journal.,privado,Este é meu diário privado.
+rest,You need to rest after school.,descansar,Você precisa descansar depois da escola.
+behavior,Good behavior is important in class.,comportamento,Bom comportamento é importante na aula.
+to deal,It is hard to deal with problems.,lidar,É difícil lidar com problemas.
+performance,Her performance in the play was amazing.,desempenho,O desempenho dela na peça foi incrível.
+to fight,We should never fight at school.,brigar,Nunca devemos brigar na escola.
+to throw,Can you throw me the ball?,jogar,Você pode me jogar a bola?
+top,Put the book on top of the desk.,topo,Coloque o livro no topo da mesa.
+quickly,Please come here quickly.,rapidamente,Por favor venha aqui rapidamente.
+past,Walk past the school to the park.,passar,Passe pela escola até o parque.
+goal,My goal is to learn English well.,objetivo,Meu objetivo é aprender inglês bem.
+second,I finished in second place.,segundo,Eu terminei em segundo lugar.
+bed,I go to bed at nine.,cama,Eu vou para a cama às nove.
+order,Please keep your room in order.,ordem,Por favor mantenha seu quarto em ordem.
+author,My favorite author writes adventure books.,autor,Meu autor favorito escreve livros de aventura.
+to fill,Fill the glass with water please.,encher,Encha o copo com água por favor.
+to represent,She will represent our school in the contest.,representar,Ela vai representar nossa escola no concurso.
+to focus,Try to focus during the lesson.,focar,Tente focar durante a aula.
+foreign,I want to learn a foreign language.,estrangeiro,Eu quero aprender um idioma estrangeiro.
+to drop,Don't drop your lunch on the floor.,deixar cair,Não deixe seu almoço cair no chão.
+to plan,Let's plan our trip together.,planejar,Vamos planejar nossa viagem juntos.
+blood,The nurse checked my blood pressure.,sangue,A enfermeira verificou minha pressão de sangue.
+upon,Once upon a time there was a dragon.,sobre,Era uma vez um dragão sobre a montanha.
+agency,The travel agency helped us plan the trip.,agência,A agência de viagens nos ajudou a planejar.
+to push,Don't push other kids at school.,empurrar,Não empurre outras crianças na escola.
+nature,I love walking in nature.,natureza,Eu adoro caminhar na natureza.
+color,My favorite color is blue.,cor,Minha cor favorita é azul.
+no,There is no milk in the fridge.,não,Não há leite na geladeira.
+recently,I recently learned how to swim.,recentemente,Eu aprendi a nadar recentemente.
+store,Let's go to the store after school.,loja,Vamos à loja depois da escola.
+to reduce,We need to reduce the noise.,reduzir,Precisamos reduzir o barulho.
+sound,I heard a loud sound outside.,som,Ouvi um som alto lá fora.
+to note,Please note the date on the board.,anotar,Por favor anote a data no quadro.
+fine,The weather is fine today.,ótimo,O tempo está ótimo hoje.
+before,Wash your hands before eating.,antes,Lave as mãos antes de comer.
+near,The school is near my house.,perto,A escola fica perto da minha casa.
+movement,The dancer made a slow movement.,movimento,A dançarina fez um movimento lento.
+page,Open your book to page ten.,página,Abra seu livro na página dez.
+to enter,Please enter the room quietly.,entrar,Por favor entre na sala silenciosamente.
+to share,Let us share the cookies equally.,compartilhar,Vamos compartilhar os biscoitos igualmente.
+than,She is taller than her brother.,do que,Ela é mais alta do que seu irmão.
+common,Dogs are a common pet.,comum,Cães são um animal de estimação comum.
+poor,The poor kitten was lost outside.,pobre,O pobre gatinho estava perdido lá fora.
+other,Please choose the other color.,outro,Por favor escolha a outra cor.
+natural,Honey is a natural food.,natural,O mel é um alimento natural.
+race,The children ran a fun race.,corrida,As crianças fizeram uma corrida divertida.
+concern,Her concern was about the test.,preocupação,A preocupação dela era com a prova.
+series,I watched a series of videos.,série,Eu assisti uma série de vídeos.
+significant,She made a significant improvement.,significativo,Ela teve uma melhora significativa.
+similar,My bag is similar to yours.,similar,Minha bolsa é similar à sua.
+hot,The soup is very hot today.,quente,A sopa está muito quente hoje.
+language,English is a useful language.,idioma,O inglês é um idioma útil.
+each,Each student has a notebook.,cada,Cada aluno tem um caderno.
+usually,I usually wake up at seven.,geralmente,Eu geralmente acordo às sete.
+response,His response to the question was correct.,resposta,A resposta dele à pergunta estava correta.
+dead,The dead leaves fell to the ground.,morto,As folhas mortas caíram no chão.
+to rise,The sun will rise at six.,nascer,O sol vai nascer às seis.
+animal,The dog is a friendly animal.,animal,O cachorro é um animal amigável.
+factor,Sleep is an important factor for health.,fator,O sono é um fator importante para a saúde.
+decade,A decade has ten years.,década,Uma década tem dez anos.
+article,I read an article about dolphins.,artigo,Eu li um artigo sobre golfinhos.
+to shoot,He wants to shoot the basketball.,arremessar,Ele quer arremessar a bola de basquete.
+east,The sun rises in the east.,leste,O sol nasce no leste.
+to save,We must save water every day.,economizar,Devemos economizar água todos os dias.
+seven,I have seven colored pencils.,sete,Eu tenho sete lápis coloridos.
+artist,The artist painted a beautiful picture.,artista,O artista pintou um quadro bonito.
+away,The bird flew away quickly.,embora,O pássaro voou embora rapidamente.
+scene,The last scene of the film was sad.,cena,A última cena do filme era triste.
+stock,The store has a large stock of books.,estoque,A loja tem um grande estoque de livros.
+career,She wants a career in music.,carreira,Ela quer uma carreira na música.
+despite,He smiled despite feeling tired.,apesar de,Ele sorriu apesar de estar cansado.
+central,The park is in the central area.,central,O parque fica na área central.
+eight,I have eight crayons in my box.,oito,Eu tenho oito giz de cera na minha caixa.
+thus,She studied hard; thus she passed.,portanto,Ela estudou muito; portanto ela passou.
+treatment,The doctor gave a good treatment.,tratamento,O médico deu um bom tratamento.
+beyond,The forest is beyond the river.,além,A floresta fica além do rio.
+happy,I am happy to see you.,feliz,Estou feliz em te ver.
+exactly,That is exactly the right answer.,exatamente,Essa é exatamente a resposta certa.
+to protect,We must protect the environment.,proteger,Devemos proteger o meio ambiente.
+approach,The cat took a slow approach.,aproximação,O gato fez uma aproximação lenta.
+to lie,She likes to lie on the grass.,mentir/deitar,Ela gosta de deitar na grama.
+size,What size are your shoes?,tamanho,Qual é o tamanho do seu sapato?
+dog,My dog is very friendly.,cachorro,Meu cachorro é muito amigável.
+fund,The school has a fund for books.,fundo,A escola tem um fundo para livros.
+serious,She has a serious look on her face.,sério,Ela tem um olhar sério no rosto.
+to occur,Storms occur in the summer.,ocorrer,Tempestades ocorrem no verão.
+media,The media shows news every day.,mídia,A mídia mostra notícias todo dia.
+ready,Are you ready for the test?,pronto,Você está pronto para a prova?
+sign,I saw a sign on the door.,placa,Eu vi uma placa na porta.
+thought,She had a good thought about it.,pensamento,Ela teve um bom pensamento sobre isso.
+list,Write a list of your friends.,lista,Escreva uma lista dos seus amigos.
+individual,Each individual has a different name.,indivíduo,Cada indivíduo tem um nome diferente.
+simple,This exercise is very simple.,simples,Este exercício é muito simples.
+quality,This book is of great quality.,qualidade,Este livro é de ótima qualidade.
+pressure,He felt pressure before the test.,pressão,Ele sentiu pressão antes da prova.
+to accept,She will accept the gift happily.,aceitar,Ela vai aceitar o presente com alegria.
+answer,Please answer the question now.,resposta,Por favor responda a pergunta agora.
+hard,Math can be very hard sometimes.,difícil,Matemática pode ser muito difícil às vezes.
+resource,Water is an important resource.,recurso,A água é um recurso importante.
+to identify,Can you identify the animal?,identificar,Você consegue identificar o animal?
+left,Turn left at the school.,esquerda,Vire à esquerda na escola.
+meeting,We have a meeting after class.,reunião,Temos uma reunião depois da aula.
+to determine,We need to determine the answer.,determinar,Precisamos determinar a resposta.
+to prepare,Let us prepare for the trip.,preparar,Vamos nos preparar para a viagem.
+disease,This disease spreads very quickly.,doença,Esta doença se espalha muito rápido.
+whatever,Do whatever makes you happy.,qualquer coisa,Faça qualquer coisa que te deixe feliz.
+success,Hard work leads to success.,sucesso,O trabalho duro leva ao sucesso.
+to argue,They argue about the game often.,discutir,Eles discutem sobre o jogo com frequência.
+cup,She drank a cup of tea.,xícara,Ela tomou uma xícara de chá.
+particularly,I particularly like chocolate cake.,particularmente,Eu particularmente gosto de bolo de chocolate.
+amount,A large amount of rain fell.,quantidade,Uma grande quantidade de chuva caiu.
+ability,She has the ability to sing.,habilidade,Ela tem a habilidade de cantar.
+staff,The staff at the school is kind.,equipe,A equipe da escola é gentil.
+to recognize,I can recognize my friend anywhere.,reconhecer,Eu consigo reconhecer minha amiga em qualquer lugar.
+to indicate,The arrow can indicate the way.,indicar,A seta pode indicar o caminho.
+character,The main character is very brave.,personagem,O personagem principal é muito corajoso.
+growth,Plants need water for growth.,crescimento,As plantas precisam de água para o crescimento.
+loss,The loss of the game was sad.,perda,A perda do jogo foi triste.
+degree,It is thirty degrees outside today.,grau,Está trinta graus lá fora hoje.
+to wonder,I wonder what is for lunch.,se perguntar,Eu me pergunto o que tem no almoço.
+attack,The dog did not attack anyone.,atacar,O cachorro não atacou ninguém.
+herself,She made the cake herself.,ela mesma,Ela mesma fez o bolo.
+region,This region has many tall trees.,região,Esta região tem muitas árvores altas.
+television,We watch television after dinner.,televisão,Nós assistimos televisão depois do jantar.
+box,Put your toys in the box.,caixa,Coloque seus brinquedos na caixa.
+TV,She watches TV every evening.,TV,Ela assiste TV toda noite.
+training,He does training every morning.,treinamento,Ele faz treinamento toda manhã.
+pretty,The garden is very pretty today.,bonito,O jardim está muito bonito hoje.
+trade,Countries trade food and goods.,comércio,Os países fazem comércio de alimentos e produtos.
+deal,We made a deal to share.,acordo,Fizemos um acordo para compartilhar.
+election,The election decided our new leader.,eleição,A eleição decidiu nosso novo líder.
+everybody,Everybody is happy today.,todo mundo,Todo mundo está feliz hoje.
+physical,We have physical education on Monday.,físico,Temos educação física na segunda-feira.
+to lay,Please lay the book on the table.,colocar,Por favor coloque o livro na mesa.
+general,The general idea is very simple.,geral,A ideia geral é muito simples.
+feeling,I have a good feeling about this.,sentimento,Eu tenho um bom sentimento sobre isso.
+standard,This is the standard way to do it.,padrão,Esta é a forma padrão de fazer isso.
+bill,Dad paid the electricity bill today.,conta,Papai pagou a conta de luz hoje.
+message,She sent me a message this morning.,mensagem,Ela me enviou uma mensagem esta manhã.
+to fail,I do not want to fail the test.,falhar,Eu não quero falhar na prova.
+outside,The kids are playing outside.,fora,As crianças estão brincando lá fora.
+to arrive,We will arrive at school early.,chegar,Nós vamos chegar cedo na escola.
+analysis,The analysis of the data was clear.,análise,A análise dos dados foi clara.
+benefit,Exercise is a benefit for your health.,benefício,O exercício é um benefício para sua saúde.
+to name,Can you name all the planets?,nomear,Você consegue nomear todos os planetas?
+sex,The form asks for your age and sex.,sexo,O formulário pede sua idade e sexo.
+forward,Please step forward when I call you.,para frente,Por favor dê um passo à frente quando eu chamar.
+lawyer,The lawyer spoke in front of the judge.,advogado,O advogado falou na frente do juiz.
+to present,She will present her project today.,apresentar,Ela vai apresentar seu projeto hoje.
+section,Read the first section of the book.,seção,Leia a primeira seção do livro.
+environmental,Pollution is an environmental problem.,ambiental,A poluição é um problema ambiental.
+glass,Please drink a glass of water.,copo,Por favor beba um copo de água.
+to answer,He did not answer the question.,responder,Ele não respondeu a pergunta.
+skill,Reading is an important skill.,habilidade,Ler é uma habilidade importante.
+sister,My sister loves to draw.,irmã,Minha irmã adora desenhar.
+PM,The meeting starts at 3 PM.,tarde,A reunião começa às 3 da tarde.
+professor,The professor explained the lesson clearly.,professor,O professor explicou a lição claramente.
+operation,The doctor performed a small operation.,operação,O médico realizou uma pequena operação.
+financial,My parents handle all financial decisions.,financeiro,Meus pais cuidam de todas as decisões financeiras.
+crime,Stealing is a crime.,crime,Roubar é um crime.
+stage,She walked onto the stage and sang.,palco,Ela subiu ao palco e cantou.
+ok,Is it ok to sit here?,ok,Está ok sentar aqui?
+to compare,Let us compare the two answers.,comparar,Vamos comparar as duas respostas.
+authority,The teacher has authority in the classroom.,autoridade,O professor tem autoridade na sala de aula.
+to miss,I miss my grandmother very much.,sentir falta,Eu sinto muito a falta da minha avó.
+design,I love the design of this notebook.,design,Eu amo o design deste caderno.
+sort,What sort of music do you like?,tipo,Que tipo de música você gosta?
+one,I have one brother.,um,Eu tenho um irmão.
+to act,It is time to act and help others.,agir,É hora de agir e ajudar os outros.
+ten,I have ten fingers on my hands.,dez,Eu tenho dez dedos nas mãos.
+knowledge,Reading increases your knowledge.,conhecimento,Ler aumenta seu conhecimento.
+gun,The police officer carried a gun.,arma,O policial carregava uma arma.
+station,We met at the bus station.,estação,Nos encontramos na estação de ônibus.
+blue,The sky is blue today.,azul,O céu está azul hoje.
+to state,Please state your full name.,declarar,Por favor declare seu nome completo.
+strategy,We need a strategy to win the game.,estratégia,Precisamos de uma estratégia para ganhar o jogo.
+little,She has a little cat at home.,pequeno,Ela tem um pequeno gato em casa.
+clearly,Please speak clearly in class.,claramente,Por favor fale claramente na aula.
+to discuss,We will discuss the story in class.,discutir,Vamos discutir a história na aula.
+indeed,This is indeed a beautiful day.,de fato,Este é de fato um dia lindo.
+force,Nobody can force you to lie.,forçar,Ninguém pode te forçar a mentir.
+truth,Always tell the truth.,verdade,Sempre diga a verdade.
+song,I love this song.,música,Eu adoro essa música.
+example,Give me an example please.,exemplo,Me dê um exemplo por favor.
+democratic,A democratic country respects everyone.,democrático,Um país democrático respeita todos.
+check,Please check your answers.,verificar,Por favor verifique suas respostas.
+truth,The truth is important.,verdade,A verdade é importante.
+environment,We must protect the environment.,meio ambiente,Devemos proteger o meio ambiente.
+leg,My leg hurts after running.,perna,Minha perna dói depois de correr.
+dark,The room is very dark.,escuro,O quarto está muito escuro.
+public,The park is a public place.,público,O parque é um lugar público.
+various,There are various fruits here.,vários,Há vários frutas aqui.
+rather,I would rather drink water.,preferivelmente,Eu prefiro beber água.
+laugh,That joke makes me laugh.,rir,Essa piada me faz rir.
+guess,Can you guess my number?,adivinhar,Você consegue adivinhar meu número?
+executive,The executive works in an office.,executivo,O executivo trabalha em um escritório.
+set,She has a set of pencils.,conjunto,Ela tem um conjunto de lápis.
+study,I study English every day.,estudar,Eu estudo inglês todo dia.
+prove,Can you prove that is true?,provar,Você pode provar que isso é verdade?
+hang,Let us hang the picture here.,pendurar,Vamos pendurar o quadro aqui.
+entire,She ate the entire sandwich.,inteiro,Ela comeu o sanduíche inteiro.
+rock,He threw a rock in the river.,pedra,Ele jogou uma pedra no rio.
+design,She wants to design a dress.,desenhar,Ela quer desenhar um vestido.
+enough,I have enough water thank you.,suficiente,Eu tenho água suficiente obrigado.
+forget,Do not forget your homework.,esquecer,Não esqueça sua lição de casa.
+since,I have lived here since 2020.,desde,Eu moro aqui desde 2020.
+claim,He claims the bike is his.,afirmar,Ele afirma que a bicicleta é dele.
+note,Write a note for your teacher.,anotação,Escreva uma anotação para sua professora.
+remove,Please remove your shoes inside.,remover,Por favor remova seus sapatos lá dentro.
+manager,The manager opened the store.,gerente,O gerente abriu a loja.
+help,Can you help me please?,ajuda,Você pode me dar uma ajuda?
+close,Please close the door slowly.,fechar,Por favor feche a porta devagar.
+sound,That music sounds really nice.,soar,Essa música soa muito bem.
+enjoy,I enjoy reading good books.,curtir,Eu curto ler bons livros.
+network,The school has a fast network.,rede,A escola tem uma rede rápida.
+legal,That rule is not legal here.,legal,Essa regra não é legal aqui.
+religious,She goes to a religious school.,religioso,Ela vai a uma escola religiosa.
+cold,The water is very cold today.,frio,A água está muito fria hoje.
+form,We form a line before class.,formar,Nós formamos uma fila antes da aula.
+final,This is the final question.,final,Esta é a questão final.
+main,This is the main street here.,principal,Esta é a rua principal aqui.
+science,I love my science class.,ciência,Eu adoro minha aula de ciência.
+green,The grass is green and fresh.,verde,A grama é verde e fresca.
+memory,She has a great memory.,memória,Ela tem uma ótima memória.
+card,I gave her a birthday card.,cartão,Eu dei a ela um cartão de aniversário.
+above,The bird flew above the tree.,acima,O pássaro voou acima da árvore.
+seat,Please take your seat now.,assento,Por favor ocupe seu assento agora.
+cell,Every plant has a tiny cell.,célula,Cada planta tem uma pequena célula.
+establish,They want to establish a club.,estabelecer,Eles querem estabelecer um clube.
+nice,She is a very nice person.,legal,Ela é uma pessoa muito legal.
+trial,The team had one final trial.,tentativa,O time teve uma última tentativa.
+expert,She is an expert in science.,especialista,Ela é uma especialista em ciências.
+that,I know that you are right.,que,Eu sei que você está certo.
+spring,Flowers bloom in spring.,primavera,As flores desabrocham na primavera.
+firm,He has a firm handshake.,firme,Ele tem um aperto de mão firme.
+Democrat,The Democrat voted for the new law.,democrata,O democrata votou pela nova lei.
+radio,We listen to music on the radio.,rádio,Nós ouvimos música no rádio.
+to visit,I want to visit my grandma.,visitar,Eu quero visitar minha avó.
+management,Good management helps the team work well.,gestão,Uma boa gestão ajuda a equipe a trabalhar bem.
+to care,I care about my friends.,cuidar,Eu me importo com meus amigos.
+to avoid,Try to avoid eating too much sugar.,evitar,Tente evitar comer muito açúcar.
+to imagine,I like to imagine flying in the sky.,imaginar,Eu gosto de imaginar voando no céu.
+tonight,We are watching a movie tonight.,esta noite,Nós vamos assistir um filme esta noite.
+huge,The elephant is huge.,enorme,O elefante é enorme.
+ball,The kids kicked the ball hard.,bola,As crianças chutaram a bola com força.
+no,There is no milk in the fridge.,não,Não há leite na geladeira.
+close,Please close the door gently.,fechar,Por favor feche a porta gentilmente.
+to finish,I need to finish my homework.,terminar,Eu preciso terminar minha lição de casa.
+yourself,Believe in yourself always.,você mesmo,Acredite em você mesmo sempre.
+talk,We had a long talk after school.,conversa,Nós tivemos uma longa conversa depois da escola.
+theory,The teacher explained a new theory.,teoria,A professora explicou uma nova teoria.
+impact,The news had a big impact on us.,impacto,A notícia teve um grande impacto em nós.
+to respond,Please respond to my question.,responder,Por favor responda à minha pergunta.
+statement,She made a clear statement in class.,declaração,Ela fez uma declaração clara em sala de aula.
+to maintain,It is important to maintain good habits.,manter,É importante manter bons hábitos.
+charge,Who is in charge of this group?,responsável,Quem é o responsável por este grupo?
+popular,This song is very popular at school.,popular,Esta música é muito popular na escola.
+traditional,We eat traditional food on holidays.,tradicional,Nós comemos comida tradicional nos feriados.
+onto,The cat jumped onto the table.,sobre,O gato pulou sobre a mesa.
+to reveal,She decided to reveal her secret.,revelar,Ela decidiu revelar seu segredo.
+direction,Follow the direction on the map.,direção,Siga a direção no mapa.
+weapon,A sword is a type of weapon.,arma,Uma espada é um tipo de arma.
+employee,The employee works at the store.,funcionário,O funcionário trabalha na loja.
+cultural,We learned about cultural traditions today.,cultural,Nós aprendemos sobre tradições culturais hoje.
+to contain,This box can contain many books.,conter,Esta caixa pode conter muitos livros.
+peace,We all want peace in the world.,paz,Todos nós queremos paz no mundo.
+to head,She will head to school early.,ir,Ela vai ir para a escola cedo.
+to control,You must control your emotions.,controlar,Você deve controlar suas emoções.
+base,The base of the triangle is wide.,base,A base do triângulo é larga.
+pain,He felt pain after he fell.,dor,Ele sentiu dor depois que caiu.
+to apply,You can apply for the contest online.,se inscrever,Você pode se inscrever no concurso online.
+play,The children love to play outside.,brincar,As crianças adoram brincar ao ar livre.
+measure,Use a ruler to measure the line.,medir,Use uma régua para medir a linha.
+wide,The river is very wide here.,largo,O rio é muito largo aqui.
+to shake,She began to shake from the cold.,tremer,Ela começou a tremer de frio.
+to fly,Birds can fly very high.,voar,Os pássaros podem voar muito alto.
+interview,She had a job interview today.,entrevista,Ela teve uma entrevista de emprego hoje.
+to manage,Can you manage all this work?,gerenciar,Você consegue gerenciar todo este trabalho?
+chair,Please sit on the chair.,cadeira,Por favor sente-se na cadeira.
+fish,We saw a big fish in the lake.,peixe,Nós vimos um peixe grande no lago.
+particular,I like this particular book a lot.,particular,Eu gosto muito deste livro particular.
+camera,I took a photo with my camera.,câmera,Eu tirei uma foto com minha câmera.
+structure,The bridge has a strong structure.,estrutura,A ponte tem uma estrutura forte.
+politics,Politics can be hard to understand.,política,Política pode ser difícil de entender.
+to perform,She will perform a song today.,se apresentar,Ela vai se apresentar com uma música hoje.
+bit,Can I have a bit of cake?,pedaço,Posso pegar um pedaço de bolo?
+weight,The box has a lot of weight.,peso,A caixa tem muito peso.
+suddenly,Suddenly the lights went off.,de repente,De repente as luzes se apagaram.
+to discover,We can discover new things every day.,descobrir,Podemos descobrir coisas novas todo dia.
+candidate,The candidate spoke to the crowd.,candidato,O candidato falou para a multidão.
+top,She put the book on top.,topo,Ela colocou o livro no topo.
+production,The production of the play was great.,produção,A produção da peça foi ótima.
+to treat,He likes to treat his friends well.,tratar,Ele gosta de tratar bem os amigos.
+trip,We went on a trip to the beach.,viagem,Nós fomos em uma viagem para a praia.
+evening,We had dinner in the evening.,noite,Nós jantamos à noite.
+to affect,Rain can affect our plans.,afetar,A chuva pode afetar nossos planos.
+inside,The cat is inside the house.,dentro,O gato está dentro da casa.
+conference,The teacher went to a conference.,conferência,A professora foi a uma conferência.
+unit,We studied one unit of the book.,unidade,Nós estudamos uma unidade do livro.
+best,She is the best student in class.,melhor,Ela é a melhor aluna da turma.
+style,He has a cool style of drawing.,estilo,Ele tem um estilo legal de desenhar.
+adult,My uncle is a responsible adult.,adulto,Meu tio é um adulto responsável.
+to worry,Do not worry about the test.,se preocupar,Não se preocupe com a prova.
+range,The store has a wide range of toys.,variedade,A loja tem uma grande variedade de brinquedos.
+to mention,Did you mention the homework to her?,mencionar,Você mencionou o dever para ela?
+rather,I would rather play outside today.,preferir,Eu prefiro brincar lá fora hoje.
+far,The school is not far from here.,longe,A escola não é longe daqui.
+deep,The lake is very deep.,fundo,O lago é muito fundo.
+past,Walk past the big tree and turn left.,passar,Passe pela árvore grande e vire à esquerda.
+edge,Do not stand near the edge.,beira,Não fique perto da beira.
+individual,Each individual student got a prize.,indivíduo,Cada indivíduo estudante ganhou um prêmio.
+specific,She gave us a specific answer.,específico,Ela nos deu uma resposta específica.
+writer,My favorite writer wrote ten books.,escritor,Meu escritor favorito escreveu dez livros.
+trouble,He got into trouble at school.,problema,Ele teve problema na escola.
+necessary,It is necessary to drink water daily.,necessário,É necessário beber água todo dia.
+throughout,She smiled throughout the whole movie.,durante,Ela sorriu durante o filme inteiro.
+challenge,The game was a big challenge.,desafio,O jogo foi um grande desafio.
+fear,He has a fear of the dark.,medo,Ele tem medo do escuro.
+shoulder,She carried the bag on her shoulder.,ombro,Ela carregou a bolsa no ombro.
+institution,The museum is an old institution.,instituição,O museu é uma instituição antiga.
+middle,She sat in the middle of the room.,meio,Ela sentou no meio da sala.
+sea,The sea is blue and beautiful.,mar,O mar é azul e bonito.
+dream,I had a funny dream last night.,sonho,Eu tive um sonho engraçado ontem à noite.
+bar,He ate a chocolate bar after lunch.,barra,Ele comeu uma barra de chocolate depois do almoço.
+beautiful,The garden is very beautiful.,bonito,O jardim é muito bonito.
+property,This land is private property.,propriedade,Este terreno é propriedade privada.
+instead,She chose water instead of juice.,em vez disso,Ela escolheu água em vez de suco.
+to improve,I want to improve my English.,melhorar,Eu quero melhorar meu inglês.
+stuff,There is a lot of stuff on the table.,coisas,Tem muitas coisas sobre a mesa.
+detail,She noticed every small detail.,detalhe,Ela notou cada pequeno detalhe.
+method,This is a good method to study.,método,Este é um bom método para estudar.
+to sign,Please sign your name here.,assinar,Por favor assine seu nome aqui.
+somebody,Somebody left a bag at school.,alguém,Alguém deixou uma bolsa na escola.
+magazine,I read a magazine about animals.,revista,Eu li uma revista sobre animais.
+hotel,We stayed at a nice hotel.,hotel,Nós ficamos em um hotel bonito.
+soldier,The soldier was very brave.,soldado,O soldado era muito corajoso.
+to reflect,The mirror can reflect your face.,refletir,O espelho pode refletir seu rosto.
+heavy,This box is very heavy.,pesado,Esta caixa é muito pesada.
+sexual,The class talked about sexual health.,sexual,A turma falou sobre saúde sexual.
+cause,Smoking can cause serious illness.,causa,Fumar pode causar doenças graves.
+bag,She put her books in the bag.,bolsa,Ela colocou seus livros na bolsa.
+heat,The heat of the sun is strong.,calor,O calor do sol é forte.
+fall,Be careful; you might fall down.,queda,Tenha cuidado; você pode cair.
+marriage,Their marriage was a happy event.,casamento,O casamento deles foi um evento feliz.
+tough,This meat is very tough to chew.,difícil,Esta carne é muito difícil de mastigar.
+to sing,I love to sing happy songs.,cantar,Eu adoro cantar músicas felizes.
+surface,The surface of the lake is calm.,superfície,A superfície do lago é calma.
+purpose,The purpose of school is to learn.,propósito,O propósito da escola é aprender.
+to exist,Dinosaurs used to exist long ago.,existir,Os dinossauros costumavam existir há muito tempo.
+pattern,I drew a pretty pattern on paper.,padrão,Eu desenhei um padrão bonito no papel.
+whom,Whom did you call yesterday?,quem,Quem você ligou ontem?
+skin,The sun can burn your skin.,pele,O sol pode queimar sua pele.
+agent,The agent helped us buy a house.,agente,O agente nos ajudou a comprar uma casa.
+owner,The owner of the dog is kind.,dono,O dono do cachorro é gentil.
+machine,This machine washes our clothes.,máquina,Esta máquina lava nossas roupas.
+gas,The car needs gas to move.,gás,O carro precisa de gás para andar.
+down,The cat jumped down from the tree.,abaixo,O gato pulou para baixo da árvore.
+ahead,Look ahead before you cross the street.,adiante,Olhe adiante antes de atravessar a rua.
+generation,My grandparents are an older generation.,geração,Meus avós são de uma geração mais velha.
+commercial,We saw a funny commercial on TV.,comercial,Nós vimos um comercial engraçado na TV.
+to address,The teacher will address the whole class.,dirigir-se,A professora vai se dirigir à turma toda.
+cancer,Early treatment can help fight cancer.,câncer,O tratamento cedo pode ajudar a combater o câncer.
+to test,The teacher will test us on Friday.,testar,A professora vai nos testar na sexta-feira.
+item,Please check each item on the list.,item,Por favor verifique cada item da lista.
+reality,In reality; the earth is not flat.,realidade,Na realidade; a Terra não é plana.
+coach,Our coach taught us to play well.,treinador,Nosso treinador nos ensinou a jogar bem.
+to step,Do not step on the wet floor.,pisar,Não pise no chão molhado.
+Mrs,Mrs. Silva is our science teacher.,Sra.,A Sra. Silva é nossa professora de ciências.
+yard,The kids played in the yard.,quintal,As crianças brincaram no quintal.
+to beat,Our team can beat the other team.,vencer,Nosso time pode vencer o outro time.
+violence,Violence is never the right answer.,violência,A violência nunca é a resposta certa.
+total,The total cost was ten dollars.,total,O custo total foi dez dólares.
+to tend,I tend to wake up very early.,ter tendência,Eu tenho tendência a acordar muito cedo.
+investment,Education is a good investment in life.,investimento,A educação é um bom investimento na vida.
+discussion,We had a discussion about the book.,discussão,Nós tivemos uma discussão sobre o livro.
+finger,She cut her finger while cooking.,dedo,Ela cortou o dedo enquanto cozinhava.
+garden,My mom grows flowers in the garden.,jardim,Minha mãe cultiva flores no jardim.
+to notice,Did you notice the new painting?,notar,Você notou o quadro novo?
+collection,He has a big collection of cards.,coleção,Ele tem uma grande coleção de cartas.
+modern,This is a modern and fast computer.,moderno,Este é um computador moderno e rápido.
+task,My task is to clean the classroom.,tarefa,Minha tarefa é limpar a sala de aula.
+partner,My partner and I work together.,parceiro,Meu parceiro e eu trabalhamos juntos.
+positive,She has a positive attitude every day.,positivo,Ela tem uma atitude positiva todos os dias.
+civil,Be civil and kind to others.,civil,Seja civil e gentil com os outros.
+kitchen,Mom cooks in the kitchen.,cozinha,Mamãe cozinha na cozinha.
+consumer,The consumer bought a new phone.,consumidor,O consumidor comprou um telefone novo.
+shot,The basketball shot went in.,arremesso,O arremesso de basquete entrou.
+budget,Our budget for the trip is small.,orçamento,Nosso orçamento para a viagem é pequeno.
+to wish,I wish for a sunny day.,desejar,Eu desejo um dia ensolarado.
+painting,The painting on the wall is beautiful.,pintura,A pintura na parede é bonita.
+scientist,The scientist studies animals in the lab.,cientista,A cientista estuda animais no laboratório.
+safe,Keep your money in a safe place.,seguro,Guarde seu dinheiro em um lugar seguro.
+agreement,We made an agreement to share.,acordo,Fizemos um acordo para compartilhar.
+capital,Brasília is the capital of Brazil.,capital,Brasília é a capital do Brasil.
+mouth,Open your mouth at the dentist.,boca,Abra sua boca no dentista.
+nor,He eats neither meat nor fish.,nem,Ele não come nem carne nem peixe.
+victim,The victim got help from the police.,vítima,A vítima recebeu ajuda da polícia.
+newspaper,Dad reads the newspaper every morning.,jornal,Papai lê o jornal toda manhã.
+instead,Drink water instead of soda.,em vez disso,Beba água em vez de refrigerante.
+threat,The storm was a threat to the town.,ameaça,A tempestade foi uma ameaça à cidade.
+responsibility,It is your responsibility to do homework.,responsabilidade,É sua responsabilidade fazer o dever de casa.
+to smile,I smile when I see my friends.,sorrir,Eu sorrio quando vejo meus amigos.
+attorney,The attorney spoke in the courtroom.,advogado,O advogado falou no tribunal.
+score,The final score was three to one.,placar,O placar final foi três a um.
+account,She has a bank account already.,conta,Ela já tem uma conta no banco.
+interesting,This book is very interesting to read.,interessante,Este livro é muito interessante de ler.
+break,Let us take a break after class.,pausa,Vamos fazer uma pausa depois da aula.
+audience,The audience clapped after the show.,plateia,A plateia aplaudiu depois do show.
+rich,The rich man gave food to others.,rico,O homem rico deu comida aos outros.
+dinner,We eat dinner together as a family.,jantar,Nós jantamos juntos em família.
+to figure,I need to figure out this problem.,descobrir,Eu preciso descobrir este problema.
+vote,Every adult can vote in elections.,voto,Todo adulto pode votar nas eleições.
+western,Cowboys live in western stories.,ocidental,Cowboys aparecem em histórias ocidentais.
+to relate,I can relate to your feelings.,relacionar,Eu consigo me relacionar com seus sentimentos.
+to travel,I love to travel to new places.,viajar,Eu adoro viajar para lugares novos.
+debate,The students had a debate in class.,debate,Os alunos tiveram um debate na aula.
+to prevent,Wash your hands to prevent sickness.,prevenir,Lave as mãos para prevenir doenças.
+citizen,A good citizen follows the rules.,cidadão,Um bom cidadão segue as regras.
+majority,The majority of kids like ice cream.,maioria,A maioria das crianças gosta de sorvete.
+none,None of the answers were correct.,nenhum,Nenhuma das respostas estava correta.
+front,She sat in the front of the class.,frente,Ela sentou na frente da sala de aula.
+to be born,I was born in a small city.,nascer,Eu nasci em uma cidade pequena.
+to admit,He had to admit he was wrong.,admitir,Ele teve que admitir que estava errado.
+senior,The senior student helped the younger ones.,veterano,O aluno veterano ajudou os mais novos.
+to assume,Do not assume the answer is easy.,assumir,Não assuma que a resposta é fácil.
+wind,The wind blew my hat away.,vento,O vento levou meu chapéu embora.
+key,She lost the key to her house.,chave,Ela perdeu a chave da sua casa.
+professional,He is a professional soccer player.,profissional,Ele é um jogador de futebol profissional.
+mission,Our mission is to help the school.,missão,Nossa missão é ajudar a escola.
+fast,The cheetah is a very fast animal.,rápido,O guepardo é um animal muito rápido.
+alone,She felt alone at the new school.,sozinha,Ela se sentiu sozinha na escola nova.
+customer,The customer bought a new book.,cliente,O cliente comprou um livro novo.
+to suffer,Nobody wants to suffer in pain.,sofrer,Ninguém quer sofrer de dor.
+speech,She gave a great speech today.,discurso,Ela fez um ótimo discurso hoje.
+successful,He is a very successful student.,bem-sucedido,Ele é um estudante muito bem-sucedido.
+option,You have one more option left.,opção,Você tem mais uma opção.
+participant,Each participant got a small prize.,participante,Cada participante ganhou um pequeno prêmio.
+southern,They live in the southern part.,sul,Eles moram na parte sul.
+fresh,I love the smell of fresh bread.,fresco,Eu amo o cheiro de pão fresco.
+eventually,She eventually learned to ride a bike.,eventualmente,Ela eventualmente aprendeu a andar de bicicleta.
+no,There is no milk in the fridge.,não,Não há leite na geladeira.
+forest,The forest is full of tall trees.,floresta,A floresta está cheia de árvores altas.
+video,We watched a funny video together.,vídeo,Nós assistimos a um vídeo engraçado juntos.
+global,Climate change is a global problem.,global,A mudança climática é um problema global.
+Senate,The Senate voted on a new law.,Senado,O Senado votou em uma nova lei.
+reform,The school needs a big reform.,reforma,A escola precisa de uma grande reforma.
+access,We have access to clean water.,acesso,Nós temos acesso à água limpa.
+restaurant,The restaurant serves very good food.,restaurante,O restaurante serve comida muito boa.
+judge,The judge made a fair decision.,juiz,O juiz tomou uma decisão justa.
+to publish,She wants to publish her first book.,publicar,Ela quer publicar seu primeiro livro.
+to cost,How much does this toy cost?,custar,Quanto custa esse brinquedo?
+relation,There is a relation between food and health.,relação,Há uma relação entre comida e saúde.
+like,I like to play outside after school.,gostar,Eu gosto de brincar fora depois da escola.
+to release,They will release the movie next week.,lançar,Eles vão lançar o filme na próxima semana.
+to own,I own a small blue bicycle.,possuir,Eu possuo uma bicicleta azul pequena.
+bird,A colorful bird sat on the tree.,pássaro,Um pássaro colorido sentou na árvore.
+opinion,She shared her opinion with the class.,opinião,Ela compartilhou sua opinião com a turma.
+credit,He got credit for his hard work.,crédito,Ele recebeu crédito pelo seu trabalho duro.
+critical,Water is critical for all living things.,essencial,A água é essencial para todos os seres vivos.
+corner,The cat is hiding in the corner.,canto,O gato está escondido no canto.
+concerned,She is concerned about her sick cat.,preocupado,Ela está preocupada com seu gato doente.
+to recall,Can you recall where you put it?,lembrar,Você consegue lembrar onde colocou?
+version,I read the short version of the story.,versão,Eu li a versão curta da história.
+to stare,It is rude to stare at people.,encarar,É rude encarar as pessoas.
+safety,Always wear a helmet for safety.,segurança,Sempre use capacete para sua segurança.
+effective,Exercise is effective for staying healthy.,eficaz,O exercício é eficaz para manter a saúde.
+neighborhood,My neighborhood has a big park.,bairro,Meu bairro tem um parque grande.
+original,This is the original painting; not a copy.,original,Esta é a pintura original; não é uma cópia.
+act,It was a kind act to help her.,ato,Foi um ato gentil ajudá-la.
+troop,The troop of soldiers marched together.,tropa,A tropa de soldados marchou junta.
+income,His income helps pay for the house.,renda,A renda dele ajuda a pagar a casa.
+directly,She looked directly at the teacher.,diretamente,Ela olhou diretamente para a professora.
+to hurt,Be careful so you do not hurt yourself.,machucar,Tenha cuidado para não se machucar.
+species,The panda is an endangered species.,espécie,O panda é uma espécie em extinção.
+immediately,Please come here immediately.,imediatamente,Por favor; venha aqui imediatamente.
+track,The runner stayed on the track.,pista,O corredor ficou na pista.
+basic,Reading is a basic skill for everyone.,básico,A leitura é uma habilidade básica para todos.
+to strike,Lightning can strike a tall tree.,atingir,O raio pode atingir uma árvore alta.
+hope,I hope you have a great day.,esperança,Eu tenho esperança de que você tenha um ótimo dia.
+sky,The sky is bright and blue today.,céu,O céu está claro e azul hoje.
+freedom,Every person deserves to have freedom.,liberdade,Toda pessoa merece ter liberdade.
+absolutely,This is absolutely amazing!,absolutamente,Isso é absolutamente incrível!
+plane,The plane flies in the sky.,avião,O avião voa no céu.
+nobody,Nobody is in the room.,ninguém,Ninguém está na sala.
+to achieve,I want to achieve my goal.,alcançar,Eu quero alcançar meu objetivo.
+object,What is that object on the table?,objeto,O que é aquele objeto na mesa?
+attitude,She has a great attitude at school.,atitude,Ela tem uma ótima atitude na escola.
+labor,Labor Day is a holiday.,trabalho,O Dia do Trabalho é feriado.
+to refer,Please refer to your book.,consultar,Por favor consulte o seu livro.
+concept,That is a simple concept to learn.,conceito,Esse é um conceito simples de aprender.
+client,The client is waiting outside.,cliente,O cliente está esperando lá fora.
+powerful,The lion is a powerful animal.,poderoso,O leão é um animal poderoso.
+perfect,Her answer was perfect.,perfeito,A resposta dela foi perfeita.
+nine,I have nine colored pencils.,nove,Eu tenho nove lápis coloridos.
+therefore,It rained; therefore the ground is wet.,portanto,Choveu; portanto o chão está molhado.
+to conduct,She will conduct the school band.,conduzir,Ela vai conduzir a banda da escola.
+to announce,He will announce the winner today.,anunciar,Ele vai anunciar o vencedor hoje.
+conversation,We had a fun conversation at lunch.,conversa,Tivemos uma conversa divertida no almoço.
+to examine,The doctor will examine the patient.,examinar,O médico vai examinar o paciente.
+to touch,Please do not touch the painting.,tocar,Por favor não toque na pintura.
+please,Please open the window.,por favor,Por favor abra a janela.
+to attend,I will attend the class tomorrow.,comparecer,Eu vou comparecer à aula amanhã.
+completely,The glass is completely full.,completamente,O copo está completamente cheio.
+to vote,You can vote when you are older.,votar,Você pode votar quando for mais velho.
+variety,There is a variety of fruits here.,variedade,Há uma variedade de frutas aqui.
+to sleep,I sleep eight hours every night.,dormir,Eu durmo oito horas toda noite.
+turn,It is your turn to play.,vez,É a sua vez de jogar.
+involved,He was involved in the project.,envolvido,Ele estava envolvido no projeto.
+investigation,The police started an investigation.,investigação,A polícia iniciou uma investigação.
+nuclear,The sun produces nuclear energy.,nuclear,O sol produz energia nuclear.
+researcher,The researcher studied ocean animals.,pesquisador,O pesquisador estudou animais do oceano.
+press,Press the button to open the door.,pressionar,Pressione o botão para abrir a porta.
+conflict,They resolved the conflict peacefully.,conflito,Eles resolveram o conflito pacificamente.
+spirit,Our team has a great team spirit.,espírito,Nossa equipe tem um grande espírito de equipe.
+to experience,I want to experience new things.,experienciar,Eu quero experienciar coisas novas.
+to replace,We need to replace the broken chair.,substituir,Nós precisamos substituir a cadeira quebrada.
+British,The British flag is red and blue.,britânico,A bandeira britânica é vermelha e azul.
+to encourage,Teachers encourage students to read.,encorajar,Professores encorajam os alunos a ler.
+argument,They had an argument about the game.,discussão,Eles tiveram uma discussão sobre o jogo.
+by,The cat is sitting by the door.,perto de,O gato está sentado perto da porta.
+once,I visited London once last year.,uma vez,Eu visitei Londres uma vez no ano passado.
+camp,We stayed in a camp in the forest.,acampamento,Ficamos em um acampamento na floresta.
+brain,The brain controls our whole body.,cérebro,O cérebro controla todo o nosso corpo.
+feature,The best feature of this phone is the camera.,característica,A melhor característica desse celular é a câmera.
+afternoon,We played soccer in the afternoon.,tarde,Nós jogamos futebol de tarde.
+AM,School starts at 8 AM every day.,manhã,A escola começa às 8 da manhã todo dia.
+weekend,I love playing games on the weekend.,fim de semana,Eu adoro jogar jogos no fim de semana.
+dozen,Mom bought a dozen eggs at the store.,dúzia,Mamãe comprou uma dúzia de ovos na loja.
+possibility,There is a possibility of rain today.,possibilidade,Há uma possibilidade de chuva hoje.
+along,Walk along the path to the park.,ao longo de,Caminhe ao longo do caminho até o parque.
+insurance,My dad has car insurance.,seguro,Meu pai tem seguro de carro.
+department,The science department is very big.,departamento,O departamento de ciências é muito grande.
+battle,The soldiers fought a long battle.,batalha,Os soldados lutaram uma longa batalha.
+beginning,The beginning of the story is fun.,começo,O começo da história é divertido.
+date,Today's date is important to remember.,data,A data de hoje é importante de lembrar.
+generally,I generally wake up early.,geralmente,Eu geralmente acordo cedo.
+African,The African elephant is very large.,africano,O elefante africano é muito grande.
+very,This cake is very delicious.,muito,Este bolo é muito delicioso.
+sorry,I am sorry for my mistake.,desculpa,Eu peço desculpa pelo meu erro.
+crisis,The city had a big water crisis.,crise,A cidade teve uma grande crise de água.
+to complete,I need to complete my homework today.,completar,Eu preciso completar meu dever de casa hoje.
+fan,She is a big fan of music.,fã,Ela é uma grande fã de música.
+to stick,Please stick the paper on the wall.,grudar,Por favor grudar o papel na parede.
+to define,Can you define this word for me?,definir,Você pode definir esta palavra para mim?
+easily,She can easily solve this problem.,facilmente,Ela pode facilmente resolver este problema.
+through,The cat walked through the door.,através,O gato caminhou através da porta.
+hole,There is a hole in my sock.,buraco,Há um buraco na minha meia.
+element,Water is an important element of life.,elemento,A água é um elemento importante da vida.
+vision,The doctor checked my vision today.,visão,O médico verificou minha visão hoje.
+status,What is the status of your project?,status,Qual é o status do seu projeto?
+normal,It is normal to feel a little nervous.,normal,É normal sentir um pouco de nervosismo.
+Chinese,I love eating Chinese food.,chinês,Eu amo comer comida chinesa.
+ship,The big ship crossed the ocean.,navio,O grande navio cruzou o oceano.
+solution,She found a solution to the problem.,solução,Ela encontrou uma solução para o problema.
+stone,He threw a stone into the river.,pedra,Ele jogou uma pedra no rio.
+slowly,The turtle walks very slowly.,devagar,A tartaruga caminha muito devagar.
+scale,We used a scale to weigh the fruit.,balança,Nós usamos uma balança para pesar a fruta.
+bit,I eat just a little bit of sugar.,pouquinho,Eu como apenas um pouquinho de açúcar.
+university,My sister studies at a big university.,universidade,Minha irmã estuda em uma grande universidade.
+to introduce,Let me introduce my best friend.,apresentar,Deixa eu apresentar meu melhor amigo.
+driver,The bus driver is very friendly.,motorista,O motorista do ônibus é muito simpático.
+attempt,He made an attempt to climb the tree.,tentativa,Ele fez uma tentativa de subir na árvore.
+park,We played football in the park.,parque,Nós jogamos futebol no parque.
+spot,I found a nice spot to sit.,lugar,Eu encontrei um lugar agradável para sentar.
+lack,There is a lack of water in the city.,falta,Há uma falta de água na cidade.
+ice,She put ice in her cold drink.,gelo,Ela colocou gelo na sua bebida fria.
+boat,We took a boat ride on the river.,barco,Nós fizemos um passeio de barco no rio.
+to drink,I like to drink orange juice.,beber,Eu gosto de beber suco de laranja.
+sun,The sun is very bright today.,sol,O sol está muito brilhante hoje.
+front,Please sit in the front row.,frente,Por favor sente na frente da fila.
+distance,The school is a short distance away.,distância,A escola fica a uma curta distância.
+wood,The table is made of wood.,madeira,A mesa é feita de madeira.
+to handle,She knows how to handle the situation.,lidar,Ela sabe como lidar com a situação.
+truck,The big truck carried heavy boxes.,caminhão,O grande caminhão carregou caixas pesadas.
+return,I will return home after school.,voltar,Eu vou voltar para casa depois da escola.
+mountain,We hiked up the tall mountain.,montanha,Nós subimos a montanha alta.
+survey,The teacher gave us a short survey.,pesquisa,A professora nos deu uma pesquisa curta.
+supposed,You are supposed to be in class.,suposto,Você é suposto estar na aula.
+tradition,Eating turkey is a holiday tradition.,tradição,Comer peru é uma tradição de feriado.
+winter,It is very cold during winter.,inverno,Está muito frio durante o inverno.
+village,My grandma lives in a small village.,aldeia,Minha avó mora em uma pequena aldeia.
+Soviet,The Soviet flag was red and gold.,Soviético,A bandeira Soviética era vermelha e dourada.
+to refuse,She will refuse to eat the food.,recusar,Ela vai recusar de comer a comida.
+sales,The store has big sales today.,vendas,A loja tem grandes vendas hoje.
+to roll,The ball will roll down the hill.,rolar,A bola vai rolar morro abaixo.
+communication,Good communication helps us understand each other.,comunicação,Boa comunicação nos ajuda a entender uns aos outros.
+run,I like to run in the park.,correr,Eu gosto de correr no parque.
+screen,The screen on my phone is broken.,tela,A tela do meu celular está quebrada.
+to gain,She wants to gain more knowledge.,ganhar,Ela quer ganhar mais conhecimento.
+resident,The resident lives on this street.,morador,O morador vive nesta rua.
+to hide,The cat likes to hide under the bed.,esconder,O gato gosta de se esconder embaixo da cama.
+gold,The ring is made of gold.,ouro,O anel é feito de ouro.
+club,She joined the reading club at school.,clube,Ela entrou no clube de leitura na escola.
+future,I want to be a doctor in the future.,futuro,Eu quero ser médico no futuro.
+farm,The farm has many cows and chickens.,fazenda,A fazenda tem muitas vacas e galinhas.
+potential,This student has great potential.,potencial,Este estudante tem grande potencial.
+increase,We need to increase our water intake.,aumentar,Precisamos aumentar nossa ingestão de água.
+middle,She sits in the middle of the classroom.,meio,Ela senta no meio da sala de aula.
+European,Paris is a famous European city.,europeu,Paris é uma famosa cidade europeia.
+presence,His presence made everyone feel happy.,presença,A presença dele fez todos se sentirem felizes.
+independent,She is an independent and brave girl.,independente,Ela é uma menina independente e corajosa.
+district,Our district has a great new school.,distrito,Nosso distrito tem uma ótima escola nova.
+shape,The cookie is in the shape of a star.,forma,O biscoito tem a forma de uma estrela.
+reader,He is a fast reader of books.,leitor,Ele é um leitor rápido de livros.
+Ms,Ms. Silva is our English teacher.,Sra.,A Sra. Silva é nossa professora de inglês.
+contract,The player signed a new contract.,contrato,O jogador assinou um novo contrato.
+crowd,A big crowd watched the game.,multidão,Uma grande multidão assistiu ao jogo.
+Christian,She is a Christian and goes to church.,cristão,Ela é cristã e vai à igreja.
+to express,He uses art to express his feelings.,expressar,Ele usa arte para expressar seus sentimentos.
+apartment,My family lives in a small apartment.,apartamento,Minha família vive em um apartamento pequeno.
+willing,I am willing to help you study.,disposto,Estou disposto a ajudar você a estudar.
+strength,Exercise gives your body more strength.,força,O exercício dá mais força ao seu corpo.
+previous,The previous lesson was about animals.,anterior,A aula anterior foi sobre animais.
+band,The band played music at the party.,banda,A banda tocou música na festa.
+obviously,She is obviously very happy today.,obviamente,Ela está obviamente muito feliz hoje.
+horse,The horse ran fast across the field.,cavalo,O cavalo correu rápido pelo campo.
+interested,I am interested in learning science.,interessado,Estou interessado em aprender ciências.
+target,His target was to score ten points.,alvo,O alvo dele era marcar dez pontos.
+prison,The guard works at the prison.,prisão,O guarda trabalha na prisão.
+to ride,I love to ride my bicycle.,andar,Eu adoro andar de bicicleta.
+guard,The guard stopped us at the door.,guarda,O guarda nos parou na porta.
+terms,We agreed on the terms of the game.,termos,Concordamos com os termos do jogo.
+demand,There is a big demand for new books.,demanda,Há uma grande demanda por livros novos.
+reporter,The reporter asked many questions.,repórter,O repórter fez muitas perguntas.
+to deliver,He will deliver the package tomorrow.,entregar,Ele vai entregar o pacote amanhã.
+text,Please read the text on page five.,texto,Por favor leia o texto na página cinco.
+share,Always share your food with friends.,compartilhar,Sempre compartilhe sua comida com os amigos.
+tool,A hammer is a useful tool.,ferramenta,Um martelo é uma ferramenta útil.
+wild,The wild animals live in the forest.,selvagem,Os animais selvagens vivem na floresta.
+vehicle,A car is a common vehicle.,veículo,Um carro é um veículo comum.
+to observe,We will observe the stars tonight.,observar,Vamos observar as estrelas esta noite.
+flight,The flight to London was long.,voo,O voo para Londres foi longo.
+inside,The cat is inside the house.,dentro,O gato está dentro da casa.
+facility,The school has a great sports facility.,instalação,A escola tem uma ótima instalação esportiva.
+understanding,She has a good understanding of math.,compreensão,Ela tem uma boa compreensão de matemática.
+average,The average score in the test was seven.,média,A média das notas na prova foi sete.
+to emerge,A butterfly will emerge from the cocoon.,emergir,Uma borboleta vai emergir do casulo.
+advantage,Being tall is an advantage in basketball.,vantagem,Ser alto é uma vantagem no basquete.
+quick,The quick fox jumped over the fence.,rápido,A raposa rápida pulou sobre a cerca.
+light,The light in the room is very bright.,luz,A luz no quarto é muito brilhante.
+leadership,She showed great leadership in the project.,liderança,Ela mostrou grande liderança no projeto.
+to earn,You can earn money by helping at home.,ganhar,Você pode ganhar dinheiro ajudando em casa.
+pound,A pound is a unit of weight.,libra,Uma libra é uma unidade de peso.
+basis,We clean the house on a weekly basis.,base,Limpamos a casa com base semanal.
+bright,The bright star lit up the sky.,brilhante,A estrela brilhante iluminou o céu.
+to operate,Only adults can operate this machine.,operar,Apenas adultos podem operar esta máquina.
+guest,We have a guest staying with us tonight.,convidado,Temos um convidado ficando conosco esta noite.
+sample,The doctor took a small blood sample.,amostra,O médico coletou uma pequena amostra de sangue.
+to contribute,Everyone can contribute ideas to the project.,contribuir,Todos podem contribuir com ideias para o projeto.
+tiny,The tiny ant carried a big crumb.,minúsculo,A formiga minúscula carregou uma grande migalha.
+block,She lives on the next block.,quarteirão,Ela mora no próximo quarteirão.
+protection,A helmet gives protection to your head.,proteção,Um capacete dá proteção à sua cabeça.
+to settle,Let's settle this with a friendly game.,resolver,Vamos resolver isso com um jogo amigável.
+to feed,She likes to feed the ducks at the park.,alimentar,Ela gosta de alimentar os patos no parque.
+to collect,I love to collect colorful stamps.,colecionar,Eu adoro colecionar selos coloridos.
+additional,We need one additional chair for the guest.,adicional,Precisamos de uma cadeira adicional para o convidado.
+while,She read a book while it rained outside.,enquanto,Ela leu um livro enquanto chovia lá fora.
+highly,This book is highly recommended by teachers.,altamente,Este livro é altamente recomendado pelos professores.
+identity,Your name is part of your identity.,identidade,Seu nome é parte da sua identidade.
+title,She chose a great title for her story.,título,Ela escolheu um ótimo título para sua história.
+mostly,The students are mostly happy at school.,principalmente,Os alunos são principalmente felizes na escola.
+lesson,Today's lesson was about the solar system.,lição,A lição de hoje foi sobre o sistema solar.
+faith,He had faith that his team would win.,fé,Ele tinha fé que seu time venceria.
+river,The children swam in the cool river.,rio,As crianças nadaram no rio fresco.
+to promote,The school will promote healthy eating habits.,promover,A escola vai promover hábitos alimentares saudáveis.
+living,She enjoys living near the ocean.,viver,Ela gosta de viver perto do oceano.
+present,She was present at every class this week.,presente,Ela esteve presente em todas as aulas esta semana.
+to count,Can you count to one hundred?,contar,Você consegue contar até cem?
+unless,You cannot play unless you finish your homework.,a menos que,Você não pode brincar a menos que termine seu dever.
+to marry,They plan to marry next summer.,casar,Eles planejam casar no próximo verão.
+tomorrow,We will go to the beach tomorrow.,amanhã,Nós vamos à praia amanhã.
+technique,He learned a new painting technique at school.,técnica,Ele aprendeu uma nova técnica de pintura na escola.
+path,Follow the path through the forest.,caminho,Siga o caminho pela floresta.
+ear,The rabbit has one long ear.,orelha,O coelho tem uma orelha comprida.
+shop,Mom went to the shop to buy bread.,loja,A mamãe foi à loja comprar pão.
+folk,My grandma loves to sing folk songs.,folclore,Minha avó adora cantar músicas folclóricas.
+to order,Can I order a cheese pizza please?,pedir,Posso pedir uma pizza de queijo por favor?
+principle,Honesty is an important principle in life.,princípio,A honestidade é um princípio importante na vida.
+to survive,Some animals survive in very cold weather.,sobreviver,Alguns animais sobrevivem em climas muito frios.
+to lift,Can you lift this heavy box?,levantar,Você consegue levantar esta caixa pesada?
+border,The river marks the border between the countries.,fronteira,O rio marca a fronteira entre os países.
+competition,She won the competition at school.,competição,Ela ganhou a competição na escola.
+to jump,I like to jump on the trampoline.,pular,Eu gosto de pular na cama elástica.
+to gather,We gather leaves in the park.,juntar,Nós juntamos folhas no parque.
+to limit,Please limit your time on the phone.,limitar,Por favor limite seu tempo no telefone.
+to fit,These shoes fit my feet well.,caber,Esses sapatos cabem bem nos meus pés.
+claim,He made a claim about the prize.,afirmação,Ele fez uma afirmação sobre o prêmio.
+to cry,The baby started to cry loudly.,chorar,O bebê começou a chorar alto.
+equipment,The sports equipment is in the gym.,equipamento,O equipamento esportivo está na academia.
+worth,This book is worth reading.,valor,Este livro tem valor para ler.
+to associate,We associate summer with hot weather.,associar,Nós associamos o verão ao calor.
+critic,The critic wrote about the new film.,crítico,O crítico escreveu sobre o novo filme.
+warm,The soup is warm and delicious.,quente,A sopa está quente e deliciosa.
+aspect,One aspect of school is homework.,aspecto,Um aspecto da escola é a lição de casa.
+to result,Hard work can result in good grades.,resultar,O trabalho duro pode resultar em boas notas.
+to insist,She will insist on finishing her food.,insistir,Ela vai insistir em terminar sua comida.
+failure,Failure teaches us important lessons.,fracasso,O fracasso nos ensina lições importantes.
+annual,The annual school fair was very fun.,anual,A feira escolar anual foi muito divertida.
+French,She is learning to speak French.,francês,Ela está aprendendo a falar francês.
+Christmas,We open gifts on Christmas morning.,Natal,Nós abrimos presentes na manhã de Natal.
+comment,He made a kind comment about my drawing.,comentário,Ele fez um comentário gentil sobre meu desenho.
+responsible,She is responsible for feeding the dog.,responsável,Ela é responsável por alimentar o cachorro.
+affair,The school party was a happy affair.,assunto,A festa da escola foi um assunto feliz.
+to approach,Do not approach the angry dog.,aproximar,Não se aproxime do cachorro bravo.
+until,Wait here until I come back.,até,Espere aqui até eu voltar.
+procedure,Follow the procedure to wash your hands.,procedimento,Siga o procedimento para lavar as mãos.
+regular,She has a regular bedtime every night.,regular,Ela tem um horário regular de dormir.
+to spread,He likes to spread butter on bread.,espalhar,Ele gosta de espalhar manteiga no pão.
+chairman,The chairman opened the school meeting.,presidente,O presidente abriu a reunião da escola.
+baseball,We played baseball in the park today.,beisebol,Nós jogamos beisebol no parque hoje.
+soft,The pillow is very soft and cozy.,macio,O travesseiro é muito macio e aconchegante.
+to ignore,Please do not ignore your classmates.,ignorar,Por favor não ignore seus colegas de classe.
+egg,She cracked an egg into the bowl.,ovo,Ela quebrou um ovo na tigela.
+to measure,We need to measure the table carefully.,medir,Nós precisamos medir a mesa com cuidado.
+belief,He has a strong belief in kindness.,crença,Ele tem uma forte crença na bondade.
+to demonstrate,She will demonstrate how to make bread.,demonstrar,Ela vai demonstrar como fazer pão.
+anybody,Does anybody want more juice?,alguém,Alguém quer mais suco?
+murder,The detective solved the mystery of the murder.,assassinato,O detetive resolveu o mistério do assassinato.
+gift,She gave me a beautiful gift today.,presente,Ela me deu um presente lindo hoje.
+religion,People practice religion in different ways.,religião,As pessoas praticam a religião de formas diferentes.
+review,He wrote a review of the new book.,análise,Ele escreveu uma análise do novo livro.
+editor,The editor fixed the mistakes in the text.,editor,O editor corrigiu os erros no texto.
+past,In the past; people used horses to travel.,passado,No passado; as pessoas usavam cavalos para viajar.
+to engage,Try to engage with your classmates more.,engajar,Tente se engajar mais com seus colegas.
+coffee,My mom drinks coffee every morning.,café,Minha mãe bebe café toda manhã.
+document,Please sign this document carefully.,documento,Por favor assine este documento com cuidado.
+speed,The car moved at high speed.,velocidade,O carro se moveu em alta velocidade.
+to cross,Look both ways before you cross the street.,atravessar,Olhe dos dois lados antes de atravessar a rua.
+influence,Good friends have a positive influence on us.,influência,Bons amigos têm uma influência positiva em nós.
+anyway,I was tired; but I went anyway.,de qualquer forma,Eu estava cansado; mas fui de qualquer forma.
+to threaten,It is wrong to threaten other people.,ameaçar,É errado ameaçar outras pessoas.
+to commit,She will commit to the project.,comprometer-se,Ela vai se comprometer com o projeto.
+female,The female bird is smaller.,fêmea,O pássaro fêmea é menor.
+youth,Youth is a time to learn.,juventude,A juventude é um tempo para aprender.
+wave,She made a wave in the water.,onda,Ela fez uma onda na água.
+move,Please move your chair here.,mover,Por favor mova sua cadeira para cá.
+afraid,The boy is afraid of spiders.,com medo,O menino está com medo de aranhas.
+quarter,I ate a quarter of the cake.,quarto,Eu comi um quarto do bolo.
+background,The sky is in the background.,fundo,O céu está no fundo.
+native,She is a native speaker of English.,nativo,Ela é uma falante nativa de inglês.
+broad,The river is very broad here.,largo,O rio é muito largo aqui.
+wonderful,We had a wonderful day today.,maravilhoso,Nós tivemos um dia maravilhoso hoje.
+to deny,He will deny the mistake.,negar,Ele vai negar o erro.
+apparently,Apparently she already left school.,aparentemente,Aparentemente ela já saiu da escola.
+slightly,The soup is slightly too hot.,levemente,A sopa está levemente quente demais.
+reaction,His reaction was very funny.,reação,A reação dele foi muito engraçada.
+twice,I brushed my teeth twice today.,duas vezes,Eu escovei meus dentes duas vezes hoje.
+suit,He wore a blue suit to the party.,terno,Ele usou um terno azul na festa.
+perspective,Try to see it from my perspective.,perspectiva,Tente ver isso da minha perspectiva.
+growing,The plant is growing very fast.,crescendo,A planta está crescendo muito rápido.
+to blow,The wind will blow the leaves away.,soprar,O vento vai soprar as folhas para longe.
+construction,The construction of the school is done.,construção,A construção da escola está pronta.
+kind,She is a very kind person.,gentil,Ela é uma pessoa muito gentil.
+intelligence,Dogs show a lot of intelligence.,inteligência,Os cães mostram muita inteligência.
+to destroy,Fire can destroy a forest quickly.,destruir,O fogo pode destruir uma floresta rapidamente.
+to cook,I love to cook pasta for lunch.,cozinhar,Eu adoro cozinhar macarrão no almoço.
+connection,There is a strong connection between them.,conexão,Há uma forte conexão entre eles.
+to charge,Please charge your phone at night.,carregar,Por favor carregue seu celular à noite.
+to burn,Be careful not to burn your hand.,queimar,Tenha cuidado para não queimar sua mão.
+shoe,I lost one shoe at the park.,sapato,Eu perdi um sapato no parque.
+to view,We can view the city from here.,ver,Podemos ver a cidade daqui.
+grade,She got a great grade in math.,nota,Ela tirou uma ótima nota em matemática.
+context,Read the context before you answer.,contexto,Leia o contexto antes de responder.
+committee,The committee met on Monday morning.,comitê,O comitê se reuniu na manhã de segunda.
+hey,Hey! Come and play with us!,ei,Ei! Venha brincar com a gente!
+mistake,Everyone makes a mistake sometimes.,erro,Todo mundo comete um erro às vezes.
+focus,You need to focus during the test.,foco,Você precisa ter foco durante a prova.
+smile,Your smile makes everyone happy.,sorriso,Seu sorriso deixa todo mundo feliz.
+location,The school location is easy to find.,localização,A localização da escola é fácil de encontrar.
+clothes,Put your clothes in the bag.,roupas,Coloque suas roupas na bolsa.
+Indian,My friend loves Indian food.,indiano,Minha amiga adora comida indiana.
+quiet,Please be quiet in the library.,quieto,Por favor fique quieto na biblioteca.
+to dress,She likes to dress in bright colors.,se vestir,Ela gosta de se vestir com cores vivas.
+to promise,I promise to be there on time.,prometer,Eu prometo estar lá na hora.
+aware,Be aware of cars on the street.,consciente,Seja consciente dos carros na rua.
+neighbor,My neighbor has a big friendly dog.,vizinho,Meu vizinho tem um cachorro grande e amigável.
+complete,Please complete the exercise in class.,completar,Por favor complete o exercício em sala.
+drive,My dad can drive very well.,dirigir,Meu pai sabe dirigir muito bem.
+function,Each button has a different function.,função,Cada botão tem uma função diferente.
+bone,The dog buried the bone outside.,osso,O cachorro enterrou o osso lá fora.
+active,She is a very active student.,ativo,Ela é uma aluna muito ativa.
+to extend,We need to extend the rope.,estender,Precisamos estender a corda.
+chief,The chief spoke to the tribe.,chefe,O chefe falou com a tribo.
+average,My average score is seven.,média,Minha nota média é sete.
+to combine,Let us combine the colors.,combinar,Vamos combinar as cores.
+wine,My mom drinks wine at dinner.,vinho,Minha mãe bebe vinho no jantar.
+below,The cat is below the table.,abaixo,O gato está abaixo da mesa.
+cool,The water is very cool today.,legal,A água está muito legal hoje.
+voter,Each voter chooses one candidate.,eleitor,Cada eleitor escolhe um candidato.
+mean,That word can mean many things.,significar,Essa palavra pode significar muitas coisas.
+to demand,The students demand more free time.,exigir,Os alunos exigem mais tempo livre.
+learning,Learning English is very fun.,aprendizado,O aprendizado de inglês é muito divertido.
+bus,I take the bus to school.,ônibus,Eu tomo o ônibus para a escola.
+hell,The book describes hell as very hot.,inferno,O livro descreve o inferno como muito quente.
+dangerous,That dog looks very dangerous.,perigoso,Aquele cachorro parece muito perigoso.
+to remind,Please remind me of the test.,lembrar,Por favor me lembre da prova.
+moral,The story has a good moral.,moral,A história tem uma boa moral.
+United,They are united as a team.,unidos,Eles estão unidos como uma equipe.
+category,She won in the art category.,categoria,Ela ganhou na categoria de arte.
+relatively,The test was relatively easy today.,relativamente,A prova foi relativamente fácil hoje.
+victory,Our team celebrated the victory.,vitória,Nosso time celebrou a vitória.
+key,He lost the key to his house.,chave,Ele perdeu a chave de sua casa.
+academic,She has a strong academic record.,acadêmico,Ela tem um bom histórico acadêmico.
+visit,We will visit our grandparents soon.,visita,Faremos uma visita aos nossos avós em breve.
+Internet,I use the Internet for homework.,Internet,Eu uso a Internet para a lição de casa.
+healthy,Eating fruits keeps you healthy.,saudável,Comer frutas te mantém saudável.
+to fire,The boss had to fire the worker.,demitir,O chefe teve que demitir o trabalhador.
+negative,Try not to have negative thoughts.,negativo,Tente não ter pensamentos negativos.
+following,The following lesson is about math.,seguinte,A lição seguinte é sobre matemática.
+historical,This is a historical building.,histórico,Este é um edifício histórico.
+medicine,She took medicine for her cold.,remédio,Ela tomou remédio para o resfriado.
+tour,We went on a tour of the city.,passeio,Fizemos um passeio pela cidade.
+to depend,Results depend on your hard work.,depender,Os resultados dependem do seu esforço.
+photo,He took a photo of the sunset.,foto,Ele tirou uma foto do pôr do sol.
+finding,Her finding helped solve the problem.,descoberta,Sua descoberta ajudou a resolver o problema.
+to grab,Please grab your backpack now.,pegar,Por favor pegue sua mochila agora.
+direct,Take the direct road to school.,direto,Pegue o caminho direto para a escola.
+classroom,Our classroom has many windows.,sala de aula,Nossa sala de aula tem muitas janelas.
+contact,Please contact me after class.,contato,Por favor entre em contato comigo após a aula.
+justice,Everyone deserves justice and respect.,justiça,Todos merecem justiça e respeito.
+to participate,All students must participate today.,participar,Todos os alunos devem participar hoje.
+daily,I have a daily reading routine.,diário,Eu tenho uma rotina diária de leitura.
+fair,The game must be fair for all.,justo,O jogo deve ser justo para todos.
+pair,I need a new pair of shoes.,par,Eu preciso de um novo par de sapatos.
+famous,She is a famous singer in Brazil.,famoso,Ela é uma cantora famosa no Brasil.
+exercise,Daily exercise is good for you.,exercício,O exercício diário faz bem para você.
+knee,He hurt his knee during the game.,joelho,Ele machucou o joelho durante o jogo.
+flower,She gave me a beautiful flower.,flor,Ela me deu uma flor bonita.
+tape,Use tape to close the box.,fita,Use fita para fechar a caixa.
+to hire,They want to hire a new teacher.,contratar,Eles querem contratar um novo professor.
+familiar,This song sounds very familiar.,familiar,Essa música parece muito familiar.
+appropriate,This behavior is appropriate at school.,apropriado,Este comportamento é apropriado na escola.
+supply,We need to supply water to everyone.,fornecer,Precisamos fornecer água para todos.
+fully,She is fully ready for the test.,completamente,Ela está completamente pronta para a prova.
+cut,He used scissors to cut the paper.,cortar,Ele usou tesoura para cortar o papel.
+will,I will go to the park tomorrow.,vontade,Eu vou ao parque amanhã.
+actor,The actor performed on the big stage.,ator,O ator se apresentou no grande palco.
+birth,The birth of a baby is special.,nascimento,O nascimento de um bebê é especial.
+search,Let us search for the lost keys.,procurar,Vamos procurar as chaves perdidas.
+to tie,I need to tie my shoes now.,amarrar,Eu preciso amarrar meu tênis agora.
+democracy,Democracy gives people the right to vote.,democracia,A democracia dá às pessoas o direito de votar.
+eastern,The eastern sky is bright at sunrise.,leste,O céu a leste é claro ao amanhecer.
+primary,Reading is a primary skill for students.,primário,A leitura é uma habilidade primária para alunos.
+yesterday,I played football yesterday with my friends.,ontem,Eu joguei futebol ontem com meus amigos.
+circle,Draw a circle on your paper.,círculo,Desenhe um círculo no seu papel.
+device,This device helps us watch videos.,dispositivo,Este dispositivo nos ajuda a assistir vídeos.
+progress,She made great progress in math.,progresso,Ela fez um grande progresso em matemática.
+next,I will read the next chapter today.,próximo,Eu vou ler o próximo capítulo hoje.
+front,She sat at the front of the class.,frente,Ela sentou na frente da sala.
+bottom,The box is at the bottom of the pile.,fundo,A caixa está no fundo da pilha.
+island,The island is surrounded by blue water.,ilha,A ilha é cercada de água azul.
+exchange,We exchange gifts on special days.,trocar,Nós trocamos presentes em dias especiais.
+clean,Please clean your room before dinner.,limpo,Por favor limpe seu quarto antes do jantar.
+studio,The artist works in a small studio.,estúdio,O artista trabalha em um pequeno estúdio.
+to train,Athletes train every day to get better.,treinar,Atletas treinam todos os dias para melhorar.
+lady,The kind lady helped the lost child.,senhora,A gentil senhora ajudou a criança perdida.
+colleague,My colleague helped me with the project.,colega,Meu colega me ajudou com o projeto.
+application,I downloaded a new application on my phone.,aplicativo,Eu baixei um novo aplicativo no meu celular.
+neck,She wore a necklace around her neck.,pescoço,Ela usou um colar em volta do pescoço.
+to lean,Do not lean against the wet wall.,apoiar,Não se apoie na parede molhada.
+damage,The storm caused damage to the roof.,dano,A tempestade causou dano ao telhado.
+plastic,The bottle is made of plastic.,plástico,A garrafa é feita de plástico.
+tall,The tall tree gives us shade.,alto,A árvore alta nos dá sombra.
+plate,Put the food on your plate please.,prato,Coloque a comida no seu prato por favor.
+to hate,It is wrong to hate other people.,odiar,É errado odiar outras pessoas.
+otherwise,Study hard; otherwise you may fail the test.,caso contrário,Estude muito; caso contrário você pode reprovar na prova.
+writing,Her writing is very neat and clear.,escrita,A escrita dela é muito organizada e clara.
+to press,Press the button to open the door.,apertar,Aperte o botão para abrir a porta.
+male,The male lion has a big mane.,masculino,O leão masculino tem uma grande juba.
+start,We will start class at eight o'clock.,início,Nós começaremos a aula às oito horas.
+alive,The plant is still alive after a week.,vivo,A planta ainda está viva após uma semana.
+expression,Her expression showed she was very happy.,expressão,A expressão dela mostrou que estava muito feliz.
+football,We played football in the park today.,futebol,Nós jogamos futebol no parque hoje.
+to intend,I intend to finish my homework early.,pretender,Eu pretendo terminar minha lição cedo.
+to attack,The dog did not attack the child.,atacar,O cachorro não atacou a criança.
+chicken,We had chicken and rice for lunch.,frango,Nós tivemos frango e arroz no almoço.
+army,The army protects the country from danger.,exército,O exército protege o país do perigo.
+abuse,It is wrong to abuse animals or people.,abuso,É errado o abuso de animais ou pessoas.
+theater,We watched a play at the theater.,teatro,Nós assistimos a uma peça no teatro.
+to shut,Please shut the window; it is cold.,fechar,Por favor feche a janela; está frio.
+map,Use the map to find the school.,mapa,Use o mapa para encontrar a escola.
+extra,I have an extra cookie for you.,extra,Eu tenho um biscoito extra para você.
+session,The study session was very long.,sessão,A sessão de estudo foi muito longa.
+danger,The dog was in danger.,perigo,O cachorro estava em perigo.
+to welcome,We welcome our new friend today.,dar boas-vindas,Damos boas-vindas ao nosso novo amigo hoje.
+domestic,A cat is a domestic animal.,doméstico,O gato é um animal doméstico.
+lots,She has lots of colorful pens.,muitos,Ela tem muitos canetas coloridas.
+literature,I love reading literature books.,literatura,Eu adoro ler livros de literatura.
+rain,The rain made the streets wet.,chuva,A chuva deixou as ruas molhadas.
+desire,He has a desire to learn English.,desejo,Ele tem um desejo de aprender inglês.
+assessment,The teacher gave us an assessment today.,avaliação,A professora nos deu uma avaliação hoje.
+injury,The player had a leg injury.,lesão,O jogador teve uma lesão na perna.
+respect,We must respect our teachers.,respeito,Devemos ter respeito pelos nossos professores.
+northern,Canada is in the northern part of America.,norte,O Canadá fica na parte norte da América.
+to nod,She began to nod her head yes.,acenar,Ela começou a acenar a cabeça dizendo sim.
+to paint,I like to paint colorful pictures.,pintar,Eu gosto de pintar quadros coloridos.
+fuel,The car needs fuel to move.,combustível,O carro precisa de combustível para se mover.
+leaf,A green leaf fell from the tree.,folha,Uma folha verde caiu da árvore.
+to direct,The teacher will direct the school play.,dirigir,A professora vai dirigir a peça da escola.
+dry,The clothes are dry after the sun.,seco,As roupas estão secas depois do sol.
+Russian,My friend speaks the Russian language.,russo,Meu amigo fala a língua russa.
+instruction,Follow each instruction carefully.,instrução,Siga cada instrução com cuidado.
+fight,It is wrong to fight at school.,briga,É errado fazer briga na escola.
+pool,We swam in the pool all day.,piscina,Nadamos na piscina o dia todo.
+to climb,I love to climb tall trees.,escalar,Eu adoro escalar árvores altas.
+sweet,This mango is very sweet.,doce,Esta manga é muito doce.
+lead,The captain will lead the team.,liderar,O capitão vai liderar o time.
+engine,The engine of the car is loud.,motor,O motor do carro é barulhento.
+fourth,I live on the fourth floor.,quarto,Eu moro no quarto andar.
+salt,Please pass me the salt.,sal,Por favor me passe o sal.
+to expand,The school will expand next year.,expandir,A escola vai expandir no próximo ano.
+importance,Water has great importance for life.,importância,A água tem grande importância para a vida.
+metal,The spoon is made of metal.,metal,A colher é feita de metal.
+fat,The bear is very fat in winter.,gordo,O urso fica muito gordo no inverno.
+ticket,I bought a ticket for the show.,ingresso,Eu comprei um ingresso para o show.
+software,This software helps me do my homework.,software,Este software me ajuda a fazer o dever.
+to disappear,The rabbit seemed to disappear quickly.,desaparecer,O coelho pareceu desaparecer rapidamente.
+corporate,My mom works in a corporate office.,corporativo,Minha mãe trabalha em um escritório corporativo.
+strange,That was a very strange noise.,estranho,Aquele foi um barulho muito estranho.
+lip,She put gloss on her lip.,lábio,Ela colocou gloss no lábio.
+reading,Reading books makes you smarter.,leitura,A leitura de livros te deixa mais inteligente.
+urban,We live in an urban area.,urbano,Nós moramos em uma área urbana.
+mental,Exercise is good for mental health.,mental,O exercício é bom para a saúde mental.
+increasingly,School is increasingly more fun.,cada vez mais,A escola está cada vez mais divertida.
+lunch,I eat lunch at noon.,almoço,Eu como almoço ao meio-dia.
+educational,This museum visit is very educational.,educativo,Essa visita ao museu é muito educativa.
+somewhere,My keys are somewhere in the house.,em algum lugar,Minhas chaves estão em algum lugar da casa.
+farmer,The farmer grows vegetables every day.,fazendeiro,O fazendeiro cultiva legumes todos os dias.
+above,The bird flew above the clouds.,acima,O pássaro voou acima das nuvens.
+sugar,Too much sugar is bad for teeth.,açúcar,Muito açúcar é ruim para os dentes.
+planet,Earth is our home planet.,planeta,A Terra é o nosso planeta natal.
+favorite,My favorite color is blue.,favorito,Minha cor favorita é azul.
+to explore,I love to explore new places.,explorar,Eu adoro explorar lugares novos.
+to obtain,She wants to obtain good grades.,obter,Ela quer obter boas notas.
+enemy,The hero fought the enemy.,inimigo,O herói lutou contra o inimigo.
+greatest,He is the greatest player here.,maior,Ele é o maior jogador aqui.
+complex,This puzzle is very complex.,complexo,Este quebra-cabeça é muito complexo.
+to surround,Trees surround the small house.,cercar,Árvores cercam a casa pequena.
+athlete,The athlete runs very fast.,atleta,O atleta corre muito rápido.
+to invite,I want to invite my friends.,convidar,Eu quero convidar meus amigos.
+to repeat,Please repeat the word slowly.,repetir,Por favor repita a palavra devagar.
+carefully,She carefully carried the glass.,cuidadosamente,Ela carregou o copo cuidadosamente.
+soul,Music touches the soul deeply.,alma,A música toca a alma profundamente.
+scientific,We did a scientific experiment today.,científico,Nós fizemos um experimento científico hoje.
+impossible,Nothing is impossible if you try.,impossível,Nada é impossível se você tentar.
+panel,The panel has four bright lights.,painel,O painel tem quatro luzes brilhantes.
+meaning,What is the meaning of this word?,significado,Qual é o significado desta palavra?
+mom,My mom makes delicious food.,mãe,Minha mãe faz uma comida deliciosa.
+married,My aunt got married last year.,casado,Minha tia se casou no ano passado.
+alone,He sat alone in the room.,sozinho,Ele ficou sozinho no quarto.
+instrument,The guitar is my favorite instrument.,instrumento,O violão é meu instrumento favorito.
+to predict,Can you predict tomorrow's weather?,prever,Você consegue prever o tempo de amanhã?
+weather,The weather is sunny and warm.,tempo,O tempo está ensolarado e quente.
+presidential,The presidential speech was very long.,presidencial,O discurso presidencial foi muito longo.
+emotional,She felt emotional at the ceremony.,emocional,Ela ficou emocionada na cerimônia.
+commitment,He showed great commitment to school.,compromisso,Ele mostrou grande compromisso com a escola.
+Supreme,The Supreme Court made a decision.,Supremo,O Supremo Tribunal tomou uma decisão.
+to bear,He cannot bear the loud noise.,suportar,Ele não consegue suportar o barulho alto.
+pocket,I keep my coins in my pocket.,bolso,Eu guardo minhas moedas no bolso.
+thin,The thin book fits in my bag.,fino,O livro fino cabe na minha mochila.
+temperature,The temperature today is very high.,temperatura,A temperatura hoje está muito alta.
+surprise,The party was a big surprise.,surpresa,A festa foi uma grande surpresa.
+poll,The class poll chose pizza as favorite.,votação,A votação da turma escolheu pizza como favorita.
+proposal,She made a proposal to the group.,proposta,Ela fez uma proposta ao grupo.
+consequence,Lying has a bad consequence.,consequência,Mentir tem uma consequência ruim.
+half,I ate half of my sandwich.,metade,Eu comi metade do meu sanduíche.
+breath,Take a deep breath and relax.,respiração,Respire fundo e relaxe.
+sight,The view was a beautiful sight.,visão,A paisagem era uma visão linda.
+cover,Please cover the pot with a lid.,tampa,Por favor cubra a panela com uma tampa.
+balance,She kept her balance on the rock.,equilíbrio,Ela manteve o equilíbrio na pedra.
+to adopt,They decided to adopt a puppy.,adotar,Eles decidiram adotar um filhote.
+minority,A minority of students chose math.,minoria,Uma minoria dos alunos escolheu matemática.
+straight,Draw a straight line on the paper.,reto,Desenhe uma linha reta no papel.
+to attempt,He will attempt to climb the wall.,tentar,Ele vai tentar escalar a parede.
+to connect,We can connect the two pieces easily.,conectar,Podemos conectar as duas peças facilmente.
+works,This machine works very well.,funciona,Esta máquina funciona muito bem.
+teaching,Teaching children is a wonderful job.,ensinar,Ensinar crianças é um trabalho maravilhoso.
+to belong,This book does not belong to me.,pertencer,Este livro não pertence a mim.
+aid,The doctor gave aid to the patient.,ajuda,O médico deu ajuda ao paciente.
+advice,My teacher gave me good advice.,conselho,Minha professora me deu um bom conselho.
+okay,Everything is going to be okay.,tudo bem,Tudo vai ficar tudo bem.
+photograph,I took a photograph of my dog.,fotografia,Eu tirei uma fotografia do meu cachorro.
+empty,The box is empty.,vazio,A caixa está vazia.
+regional,She speaks a regional dialect.,regional,Ela fala um dialeto regional.
+trail,We walked on the forest trail.,trilha,Nós caminhamos na trilha da floresta.
+novel,I read a novel last week.,romance,Eu li um romance semana passada.
+code,He wrote a secret code.,código,Ele escreveu um código secreto.
+somehow,She somehow found the lost key.,de alguma forma,Ela de alguma forma achou a chave perdida.
+to organize,I need to organize my room.,organizar,Eu preciso organizar meu quarto.
+jury,The jury made a decision.,júri,O júri tomou uma decisão.
+breast,The bird has a red breast.,peito,O pássaro tem um peito vermelho.
+Iraqi,The Iraqi flag has three colors.,iraquiano,A bandeira iraquiana tem três cores.
+human,Every human needs water to live.,humano,Todo humano precisa de água para viver.
+to acknowledge,He did acknowledge his mistake.,reconhecer,Ele reconheceu seu erro.
+theme,The theme of the party is jungle.,tema,O tema da festa é selva.
+storm,A big storm hit the city.,tempestade,Uma grande tempestade atingiu a cidade.
+union,The workers formed a union.,sindicato,Os trabalhadores formaram um sindicato.
+to record,She wants to record a song.,gravar,Ela quer gravar uma música.
+desk,My books are on my desk.,escrivaninha,Meus livros estão na minha escrivaninha.
+to fear,Children often fear the dark.,temer,Crianças frequentemente temem o escuro.
+thanks,He said thanks after the gift.,obrigado,Ele disse obrigado depois do presente.
+fruit,An apple is a sweet fruit.,fruta,A maçã é uma fruta doce.
+under,The cat is under the table.,embaixo,O gato está embaixo da mesa.
+expensive,That bicycle is very expensive.,caro,Aquela bicicleta é muito cara.
+yellow,The sun is big and yellow.,amarelo,O sol é grande e amarelo.
+conclusion,We reached a conclusion at last.,conclusão,Nós chegamos a uma conclusão por fim.
+prime,Health is of prime importance.,principal,A saúde é de principal importância.
+shadow,The tree made a long shadow.,sombra,A árvore fez uma longa sombra.
+to struggle,He had to struggle to win.,lutar,Ele teve que lutar para vencer.
+to conclude,We conclude the class with songs.,concluir,Nós concluímos a aula com músicas.
+analyst,The analyst studied the numbers carefully.,analista,O analista estudou os números cuidadosamente.
+dance,She loves to dance every day.,dança,Ela adora dançar todo dia.
+limit,There is a speed limit here.,limite,Há um limite de velocidade aqui.
+like,I like to eat pizza.,gostar,Eu gosto de comer pizza.
+regulation,The new regulation helps keep order.,regulamento,O novo regulamento ajuda a manter a ordem.
+being,Every being needs food and water.,ser,Todo ser precisa de comida e água.
+to last,How long will the game last?,durar,Quanto tempo vai durar o jogo?
+ring,She wears a gold ring.,anel,Ela usa um anel de ouro.
+largely,The plan was largely a success.,em grande parte,O plano foi em grande parte um sucesso.
+to shift,He had to shift his plans.,mudar,Ele teve que mudar seus planos.
+revenue,The school raised revenue with events.,receita,A escola gerou receita com eventos.
+to mark,Please mark the correct answer.,marcar,Por favor marque a resposta correta.
+to locate,Can you locate the city on the map?,localizar,Você consegue localizar a cidade no mapa?
+county,She lives in a small county.,município,Ela mora em um município pequeno.
+appearance,His appearance changed after the haircut.,aparência,A aparência dele mudou depois do corte.
+package,A package arrived at our door.,pacote,Um pacote chegou à nossa porta.
+difficulty,He had difficulty solving the problem.,dificuldade,Ele teve dificuldade para resolver o problema.
+bridge,We crossed the old bridge slowly.,ponte,Nós cruzamos a velha ponte devagar.
+to recommend,I recommend this book to you.,recomendar,Eu recomendo este livro para você.
+obvious,The answer was obvious to everyone.,óbvio,A resposta foi óbvia para todos.
+train,The train arrives at eight o'clock.,trem,O trem chega às oito horas.
+basically,It is basically a simple game.,basicamente,É basicamente um jogo simples.
+e-mail,She sent me an e-mail today.,e-mail,Ela me mandou um e-mail hoje.
+to generate,This machine can generate electricity.,gerar,Esta máquina pode gerar eletricidade.
+anymore,I do not live here anymore.,mais,Eu não moro mais aqui.
+to propose,He wants to propose a new idea.,propor,Ele quer propor uma nova ideia.
+thinking,She is thinking about her homework.,pensando,Ela está pensando na tarefa.
+possibly,We can possibly go to the park.,possivelmente,Podemos possivelmente ir ao parque.
+trend,This color is a new trend.,tendência,Esta cor é uma nova tendência.
+visitor,The visitor came from another city.,visitante,O visitante veio de outra cidade.
+loan,He got a loan from the bank.,empréstimo,Ele pegou um empréstimo no banco.
+currently,She is currently reading a book.,atualmente,Ela está atualmente lendo um livro.
+comfortable,This sofa is very comfortable.,confortável,Este sofá é muito confortável.
+investor,The investor put money in the company.,investidor,O investidor colocou dinheiro na empresa.
+but,I like cats but not dogs.,mas,Eu gosto de gatos mas não de cachorros.
+profit,The shop made a big profit.,lucro,A loja teve um grande lucro.
+angry,He was angry after the game.,irritado,Ele ficou irritado depois do jogo.
+crew,The crew worked on the ship.,tripulação,A tripulação trabalhou no navio.
+deep,The lake is very deep.,fundo,O lago é muito fundo.
+accident,There was an accident on the road.,acidente,Houve um acidente na estrada.
+male,The male lion is very strong.,macho,O leão macho é muito forte.
+meal,We had a great meal together.,refeição,Tivemos uma ótima refeição juntos.
+hearing,The doctor checked her hearing today.,audição,O médico verificou sua audição hoje.
+traffic,There is a lot of traffic today.,trânsito,Há muito trânsito hoje.
+muscle,He hurt a muscle during practice.,músculo,Ele machucou um músculo durante o treino.
+notion,She had no notion of the answer.,noção,Ela não tinha noção da resposta.
+to capture,They want to capture the moment.,capturar,Eles querem capturar o momento.
+to prefer,I prefer juice over soda.,preferir,Eu prefiro suco a refrigerante.
+truly,She is truly a great friend.,verdadeiramente,Ela é verdadeiramente uma grande amiga.
+earth,The earth moves around the sun.,terra,A terra se move ao redor do sol.
+Japanese,She is learning Japanese at school.,japonês,Ela está aprendendo japonês na escola.
+chest,He felt pain in his chest.,peito,Ele sentiu dor no peito.
+to search,Let us search for the answer.,pesquisar,Vamos pesquisar a resposta.
+thick,This book is very thick.,grosso,Este livro é muito grosso.
+cash,He paid with cash at the store.,dinheiro,Ele pagou com dinheiro na loja.
+museum,We visited the museum on Friday.,museu,Visitamos o museu na sexta-feira.
+beauty,The beauty of the forest is amazing.,beleza,A beleza da floresta é incrível.
+emergency,Call for help in an emergency.,emergência,Peça ajuda em uma emergência.
+unique,Every person has a unique story.,único,Cada pessoa tem uma história única.
+to feature,The show will feature a new singer.,apresentar,O show vai apresentar um novo cantor.
+internal,The internal parts of the clock are small.,interno,As partes internas do relógio são pequenas.
+ethnic,The festival had ethnic food and music.,étnico,O festival teve comida e música étnica.
+to link,You can link the two ideas together.,ligar,Você pode ligar as duas ideias.
+stress,Too much work can cause stress.,estresse,Muito trabalho pode causar estresse.
+content,She is content with her grade.,satisfeita,Ela está satisfeita com sua nota.
+to select,Please select your favorite color.,selecionar,Por favor selecione sua cor favorita.
+root,The root of the tree is strong.,raiz,A raiz da árvore é forte.
+nose,She has a small nose.,nariz,Ela tem um nariz pequeno.
+to declare,He had to declare his name.,declarar,Ele teve que declarar seu nome.
+outside,The children are playing outside.,fora,As crianças estão brincando fora.
+to appreciate,I appreciate your help today.,apreciar,Eu aprecio sua ajuda hoje.
+actual,The actual answer is different.,real,A resposta real é diferente.
+bottle,She drinks water from a bottle.,garrafa,Ela bebe água de uma garrafa.
+hardly,He can hardly see the board.,mal,Ele mal consegue ver o quadro.
+setting,The setting of the story is a forest.,cenário,O cenário da história é uma floresta.
+to launch,They will launch a new game today.,lançar,Eles vão lançar um novo jogo hoje.
+dress,She wore a blue dress to the party.,vestido,Ela usou um vestido azul na festa.
+file,Please save the file on your computer.,arquivo,Por favor salve o arquivo no seu computador.
+sick,He stayed home because he felt sick.,doente,Ele ficou em casa porque se sentiu doente.
+outcome,The outcome of the game was a surprise.,resultado,O resultado do jogo foi uma surpresa.
+ad,I saw an ad for a new toy.,anúncio,Eu vi um anúncio de um brinquedo novo.
+to defend,A good friend will defend you.,defender,Um bom amigo vai te defender.
+to matter,Your feelings matter a lot.,importar,Seus sentimentos importam muito.
+to judge,It is not fair to judge others.,julgar,Não é justo julgar os outros.
+duty,It is your duty to be honest.,dever,É seu dever ser honesto.
+sheet,She put a clean sheet on the bed.,lençol,Ela colocou um lençol limpo na cama.
+ought,You ought to study for the test.,dever,Você deve estudar para a prova.
+to ensure,Lock the door to ensure your safety.,garantir,Tranche a porta para garantir sua segurança.
+Catholic,She goes to a Catholic school.,católico,Ela estuda em uma escola católica.
+extremely,The weather is extremely cold today.,extremamente,O tempo está extremamente frio hoje.
+extent,To some extent he is right.,extensão,Até certa extensão ele está certo.
+component,This is an important component of the machine.,componente,Este é um componente importante da máquina.
+to mix,Mix the flour and the eggs together.,misturar,Misture a farinha e os ovos juntos.
+long-term,Exercise has long-term benefits for your health.,longo prazo,Exercício tem benefícios a longo prazo para a saúde.
+slow,The turtle is very slow.,lento,A tartaruga é muito lenta.
+contrast,The contrast between day and night is clear.,contraste,O contraste entre o dia e a noite é claro.
+zone,Do not enter the danger zone.,zona,Não entre na zona de perigo.
+to wake,I wake up early every morning.,acordar,Eu acordo cedo toda manhã.
+to challenge,She likes to challenge herself every day.,desafiar,Ela gosta de se desafiar todos os dias.
+airport,We arrived at the airport very early.,aeroporto,Chegamos ao aeroporto muito cedo.
+chief,The chief of the team made the decision.,chefe,O chefe da equipe tomou a decisão.
+brown,The dog has brown fur.,marrom,O cachorro tem pelo marrom.
+standard,The standard of the work was very high.,padrão,O padrão do trabalho era muito alto.
+shirt,He wore a white shirt to school.,camisa,Ele usou uma camisa branca na escola.
+pilot,The pilot landed the plane safely.,piloto,O piloto pousou o avião com segurança.
+to warn,Mom warned me about the hot stove.,avisar,Mamãe me avisou sobre o fogão quente.
+ultimately,Ultimately she chose the red dress.,finalmente,Finalmente ela escolheu o vestido vermelho.
+cat,My cat sleeps on the sofa.,gato,Meu gato dorme no sofá.
+contribution,His contribution to the project was great.,contribuição,Sua contribuição para o projeto foi ótima.
+capacity,The stadium has a large capacity.,capacidade,O estádio tem uma grande capacidade.
+ourselves,We made the cake ourselves.,nós mesmos,Nós mesmos fizemos o bolo.
+estate,The family owns a large estate.,propriedade,A família possui uma grande propriedade.
+guide,The guide showed us the museum.,guia,O guia nos mostrou o museu.
+circumstance,In this circumstance you must be careful.,circunstância,Nesta circunstância você deve ter cuidado.
+snow,The children played in the snow.,neve,As crianças brincaram na neve.
+English,She speaks English very well.,inglês,Ela fala inglês muito bem.
+politician,The politician gave a speech to the crowd.,político,O político fez um discurso para a multidão.
+to steal,It is wrong to steal from others.,roubar,É errado roubar dos outros.
+to pursue,He wants to pursue his dream of singing.,perseguir,Ele quer perseguir seu sonho de cantar.
+to slip,Be careful not to slip on the ice.,escorregar,Cuidado para não escorregar no gelo.
+percentage,A large percentage of students passed the test.,porcentagem,Uma grande porcentagem de alunos passou na prova.
+meat,I like to eat meat for lunch.,carne,Eu gosto de comer carne no almoço.
+funny,That clown is very funny.,engraçado,Aquele palhaço é muito engraçado.
+neither,I like neither cats nor dogs.,nenhum dos dois,Eu não gosto nem de gatos nem de cachorros.
+soil,Plants grow in the soil.,solo,As plantas crescem no solo.
+to influence,Good books can influence your life.,influenciar,Bons livros podem influenciar sua vida.
+surgery,The doctor performed a long surgery.,cirurgia,O médico realizou uma longa cirurgia.
+correct,Your answer is correct.,correto,Sua resposta está correta.
+Jewish,She celebrates Jewish holidays with family.,judeu,Ela celebra feriados judeus com a família.
+to blame,Do not blame others for your mistakes.,culpar,Não culpe os outros pelos seus erros.
+to estimate,Can you estimate how many apples are here?,estimar,Você consegue estimar quantas maçãs há aqui?
+due,The homework is due tomorrow.,devido,A lição de casa deve ser entregue amanhã.
+basketball,He plays basketball every Saturday.,basquete,Ele joga basquete todo sábado.
+late,She arrived late to school.,atrasado,Ela chegou atrasada à escola.
+golf,My grandfather loves to play golf.,golfe,Meu avô adora jogar golfe.
+to investigate,The police will investigate the case.,investigar,A polícia vai investigar o caso.
+crazy,That idea sounds a little crazy.,louco,Essa ideia parece um pouco louca.
+significantly,Her grades improved significantly this year.,significativamente,Suas notas melhoraram significativamente este ano.
+chain,The dog is on a chain.,corrente,O cachorro está preso a uma corrente.
+address,What is your home address?,endereço,Qual é o seu endereço de casa?
+branch,A bird sat on the branch.,galho,Um pássaro pousou no galho.
+combination,That is a great combination of colors.,combinação,Essa é uma ótima combinação de cores.
+just,I just finished my homework.,acabei de,Eu acabei de terminar minha lição de casa.
+frequently,She frequently reads books before bed.,frequentemente,Ela frequentemente lê livros antes de dormir.
+governor,The governor spoke to the students.,governador,O governador falou com os estudantes.
+relief,It was a relief to find my bag.,alívio,Foi um alívio encontrar minha bolsa.
+user,Each user needs a password.,usuário,Cada usuário precisa de uma senha.
+dad,My dad makes great pancakes.,pai,Meu pai faz panquecas deliciosas.
+to kick,He tried to kick the ball hard.,chutar,Ele tentou chutar a bola com força.
+part,This is the best part of the movie.,parte,Esta é a melhor parte do filme.
+manner,Please speak in a polite manner.,maneira,Por favor fale de maneira educada.
+ancient,We studied ancient civilizations in class.,antigo,Nós estudamos civilizações antigas na aula.
+silence,The teacher asked for silence.,silêncio,A professora pediu silêncio.
+rating,This movie has a high rating.,classificação,Este filme tem uma classificação alta.
+golden,The golden sun set over the hills.,dourado,O sol dourado se pôs sobre as colinas.
+motion,The motion of the waves was calming.,movimento,O movimento das ondas era tranquilizante.
+German,She is learning the German language.,alemão,Ela está aprendendo o idioma alemão.
+gender,The form asks for your name and gender.,gênero,O formulário pede seu nome e gênero.
+to solve,Can you solve this math problem?,resolver,Você consegue resolver este problema de matemática?
+fee,There is a small fee to enter.,taxa,Há uma pequena taxa para entrar.
+landscape,The landscape was covered in green trees.,paisagem,A paisagem estava coberta de árvores verdes.
+used,This bicycle is used but still good.,usado,Esta bicicleta é usada mas ainda está boa.
+bowl,She ate a bowl of soup.,tigela,Ela comeu uma tigela de sopa.
+equal,Everyone deserves equal respect.,igual,Todos merecem respeito igual.
+long,It was a long and tiring day.,longo,Foi um dia longo e cansativo.
+official,The official results will come tomorrow.,oficial,Os resultados oficiais virão amanhã.
+forth,She walked back and forth nervously.,para frente,Ela caminhou para frente e para trás nervosamente.
+frame,He put the photo in a frame.,moldura,Ele colocou a foto em uma moldura.
+typical,This is a typical Brazilian breakfast.,típico,Este é um café da manhã típico brasileiro.
+except,Everyone came except my best friend.,exceto,Todo mundo veio exceto meu melhor amigo.
+conservative,My grandfather has conservative values.,conservador,Meu avô tem valores conservadores.
+to eliminate,We need to eliminate all the bugs.,eliminar,Precisamos eliminar todos os insetos.
+host,The host welcomed all the guests.,anfitrião,O anfitrião recebeu todos os convidados.
+hall,We walked through the school hall.,corredor,Caminhamos pelo corredor da escola.
+to trust,You can trust your best friend.,confiar,Você pode confiar no seu melhor amigo.
+ocean,The ocean is deep and blue.,oceano,O oceano é profundo e azul.
+to score,He wants to score in the game.,marcar,Ele quer marcar no jogo.
+row,We sat in the front row.,fileira,Nós sentamos na primeira fileira.
+producer,The producer made a great film.,produtor,O produtor fez um ótimo filme.
+to afford,She cannot afford a new bike.,pagar,Ela não pode pagar uma bicicleta nova.
+meanwhile,Meanwhile; the dog slept outside.,enquanto isso,Enquanto isso; o cachorro dormiu lá fora.
+regime,The old regime had strict rules.,regime,O antigo regime tinha regras rígidas.
+division,Division is harder than addition.,divisão,Divisão é mais difícil que adição.
+to confirm,Please confirm your answer now.,confirmar,Por favor; confirme sua resposta agora.
+to fix,Dad will fix the broken chair.,consertar,Papai vai consertar a cadeira quebrada.
+appeal,The colorful poster has great appeal.,apelo,O cartaz colorido tem grande apelo.
+mirror,She looked at herself in the mirror.,espelho,Ela se olhou no espelho.
+tooth,My tooth hurts a little today.,dente,Meu dente dói um pouco hoje.
+smart,That was a very smart answer.,inteligente,Essa foi uma resposta muito inteligente.
+length,The length of the rope is short.,comprimento,O comprimento da corda é curto.
+entirely,I entirely agree with your idea.,completamente,Eu concordo completamente com sua ideia.
+to rely,You can rely on your teacher.,depender,Você pode depender do seu professor.
+topic,The topic of our talk is animals.,tópico,O tópico da nossa conversa é animais.
+to complain,Try not to complain about homework.,reclamar,Tente não reclamar de dever de casa.
+to issue,The school will issue new books.,emitir,A escola vai emitir livros novos.
+variable,The temperature is a variable factor.,variável,A temperatura é um fator variável.
+to back,Friends should always back each other.,apoiar,Amigos devem sempre apoiar uns aos outros.
+to range,Prices range from low to high.,variar,Os preços variam de baixo a alto.
+telephone,She answered the telephone quickly.,telefone,Ela atendeu o telefone rapidamente.
+perception,His perception of color is different.,percepção,A percepção de cor dele é diferente.
+to attract,Flowers attract bees and butterflies.,atrair,Flores atraem abelhas e borboletas.
+confidence,Practice gives you more confidence.,confiança,A prática te dá mais confiança.
+bedroom,My bedroom has a big window.,quarto,Meu quarto tem uma janela grande.
+secret,Can you keep a secret?,segredo,Você consegue guardar um segredo?
+debt,He paid his debt to the store.,dívida,Ele pagou sua dívida com a loja.
+rare,That is a rare and special bird.,raro,Esse é um pássaro raro e especial.
+his,His dog is very friendly.,dele,O cachorro dele é muito amigável.
+tank,The fish tank is clean and clear.,tanque,O tanque de peixes está limpo e claro.
+nurse,The nurse helped the sick child.,enfermeira,A enfermeira ajudou a criança doente.
+coverage,The news coverage was very long.,cobertura,A cobertura de notícias foi muito longa.
+opposition,The opposition team played very well.,oposição,O time de oposição jogou muito bem.
+aside,She stepped aside to let him pass.,de lado,Ela se afastou de lado para ele passar.
+anywhere,You can sit anywhere you like.,em qualquer lugar,Você pode sentar em qualquer lugar.
+bond,There is a strong bond between them.,laço,Há um laço forte entre eles.
+to file,Please file these papers in order.,arquivar,Por favor; arquive esses papéis em ordem.
+pleasure,Reading is a great pleasure.,prazer,Ler é um grande prazer.
+master,He is a master at painting.,mestre,Ele é um mestre em pintura.
+era,We live in the era of computers.,era,Vivemos na era dos computadores.
+requirement,A pen is a requirement for class.,requisito,Uma caneta é um requisito para a aula.
+check,Always check your work before finishing.,verificar,Sempre verifique seu trabalho antes de terminar.
+stand,Please stand up and say your name.,ficar de pé,Por favor; fique de pé e diga seu nome.
