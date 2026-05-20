@@ -5,8 +5,8 @@ import os
 import time
 
 # ================= CONFIGURAÇÕES =================
-NOME_ARQUIVO_CSV = "teste-en-2.csv"  # Substitua pelo nome do seu CSV
-DIRETORIO_SAIDA = "audios_gerados"
+NOME_ARQUIVO_CSV = "novos-anki-cards.csv"  # Substitua pelo nome do seu CSV
+DIRETORIO_SAIDA = "new_audios_gerados"
 VOZ = "en-US-AriaNeural"  # Para voz masculina use "en-US-GuyNeural"
 PAUSA_ENTRE_AUDIOS = 1.0  # Tempo em segundos para esperar entre um áudio e outro
 # =================================================
@@ -43,7 +43,7 @@ async def main():
 
     try:
         with open(NOME_ARQUIVO_CSV, mode='r', encoding='utf-8') as arquivo:
-            leitor_csv = csv.reader(arquivo, delimiter=',') 
+            leitor_csv = csv.reader(arquivo, delimiter='|') 
             
             linhas = list(leitor_csv)
             total_linhas = len(linhas)
