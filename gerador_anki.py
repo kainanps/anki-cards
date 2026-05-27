@@ -5,7 +5,7 @@ import os
 import time
 
 # ================= CONFIGURAÇÕES =================
-NOME_ARQUIVO_CSV = "novos-anki-cards.csv"  # Substitua pelo nome do seu CSV
+NOME_ARQUIVO_CSV = "novos-anki-cards copy.csv"  # Substitua pelo nome do seu CSV
 DIRETORIO_SAIDA = "new_audios_gerados"
 VOZ = "en-US-AriaNeural"  # Para voz masculina use "en-US-GuyNeural"
 PAUSA_ENTRE_AUDIOS = 1.0  # Tempo em segundos para esperar entre um áudio e outro
@@ -50,7 +50,7 @@ async def main():
             print(f"Total de linhas encontradas no CSV: {total_linhas}")
             print("Iniciando geração sequencial segura...\n" + "-"*50)
             
-            for index, linha in enumerate(linhas, start=1):
+            for index, linha in enumerate(linhas, start=2001):
                 if len(linha) >= 2:
                     palavra = linha[0].strip()
                     frase = linha[1].strip()
