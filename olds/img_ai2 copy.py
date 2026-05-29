@@ -6,10 +6,10 @@ import requests
 import random
 
 # ================= CONFIGURAÇÕES =================
-NOME_ARQUIVO_CSV = "prompts.csv"               
+NOME_ARQUIVO_CSV = "prompts copy.csv"               
 DIRETORIO_SAIDA = "new_imagens_geradas-ai"          
 PAUSA_ENTRE_REQUISICOES = 3.0                # Aumentei para 3s para evitar bloqueios por excesso de requisições
-LINHA_INICIAL = 1                          
+LINHA_INICIAL = 146                          
 MAX_TENTATIVAS = 3                           # Quantas vezes tentar de novo se der erro
 # =================================================
 

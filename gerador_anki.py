@@ -50,7 +50,7 @@ async def main():
             print(f"Total de linhas encontradas no CSV: {total_linhas}")
             print("Iniciando geração sequencial segura...\n" + "-"*50)
             
-            for index, linha in enumerate(linhas, start=2001):
+            for index, linha in enumerate(linhas, start=146):
                 if len(linha) >= 2:
                     palavra = linha[0].strip()
                     frase = linha[1].strip()
